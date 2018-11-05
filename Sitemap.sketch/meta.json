@@ -1,0 +1,2211 @@
+{
+  "commit" : "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+  "build" : 55047,
+  "version" : 103,
+  "fonts" : [
+    "Roboto-Regular",
+    "Roboto-Bold",
+    "Roboto-Medium"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "4e7e2f5d7940a711b59f89190b5b7e3029f050f5",
+    "appVersion" : "50.2",
+    "build" : 55047,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 103,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.55047"
+  ],
+  "appVersion" : "50.2",
+  "pagesAndArtboards" : {
+    "23B6ECD2-538D-4C49-893C-E4A8C983E21E" : {
+      "name" : "Samples",
+      "artboards" : {
+        "DA1C56D2-DDF1-4F84-98C1-E10020436148" : {
+          "name" : "Sample 2 -gray simple-"
+        },
+        "27EE2250-D70F-4638-AB5A-9E0EA1287885" : {
+          "name" : "Sample 3 -gray simple 2-"
+        },
+        "2333E9B5-6B2E-428D-903D-C2FECA197D04" : {
+          "name" : "Sample 1 -dark-"
+        },
+        "EE6B2039-D0F9-4B22-BF61-91BD19FCBF70" : {
+          "name" : "Sample 3 -blue simple 2- "
+        },
+        "68C93DBC-61DC-4E96-B638-C1D3CC969F0C" : {
+          "name" : "Sample 1 -gray-"
+        },
+        "73DC578E-15C3-4A5D-BBAB-4BCEE52A0DEC" : {
+          "name" : "Sample 2 -dark simple-"
+        },
+        "5676C17A-EEE4-45FC-B055-ADD606E7B4B9" : {
+          "name" : "Sample 1 -blue-"
+        },
+        "CC734987-611F-474D-8CC6-A14A2CB9FB6C" : {
+          "name" : "Sample 2 -blue simple"
+        },
+        "1810CB7A-EC40-4F40-BC6B-5BB3AB380E97" : {
+          "name" : "Sample 3 -dark simple 2-"
+        }
+      }
+    },
+    "9C757661-721D-4887-B3DE-D33B280C0DBD" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "71A39C3E-E943-462E-9CA0-5636798FBF13" : {
+          "name" : "labels 2 blue\/yes"
+        },
+        "FAC60CAB-C7F4-41D8-9396-EE18FD6ACBD9" : {
+          "name" : "Various Cards\/Modal"
+        },
+        "6FD23440-59FC-40EA-97EB-8957CBA1C923" : {
+          "name" : "labels 2 dark\/minus"
+        },
+        "6B8DB076-5AE1-483E-90C9-1C7E14631BBB" : {
+          "name" : "arrows dark\/tag hor - arrow 1.1 dotted "
+        },
+        "E9F1D482-38F0-4D02-AC0E-3DD1C6B2CADE" : {
+          "name" : "arrows dark\/arrow 5.1"
+        },
+        "D05B3BE3-271E-48C6-B3DA-FC9F3B1405E3" : {
+          "name" : "Various Cards\/Video_Gallery_7"
+        },
+        "1A44A2D2-8BF8-414D-91B0-FA2EFC963139" : {
+          "name" : "Various Cards\/Video_Gallery_2"
+        },
+        "681D5947-9AAC-4049-82AC-9E7F8EF46052" : {
+          "name" : "Various Cards\/Calendar"
+        },
+        "8403BA53-FC67-4F50-9831-BC70B625EF7C" : {
+          "name" : "simple blue\/main page"
+        },
+        "3D83E0EE-A1A3-4B84-A7C6-1E8C1E04872E" : {
+          "name" : "Various Cards\/Song_Album"
+        },
+        "13355547-18D0-42B3-B67D-740D295E8F61" : {
+          "name" : "arrows blue\/tag ver - arrow 1.2"
+        },
+        "D431EDAB-C5FA-426A-8C85-E7ECE4BBC05B" : {
+          "name" : "Various Cards\/Slideshow"
+        },
+        "0DC0F3AC-63B6-46BF-B21E-BDEC019A1F99" : {
+          "name" : "letters dark\/green outlined"
+        },
+        "B7D75119-32FA-49CC-98CE-039F0D38814C" : {
+          "name" : "arrows gray\/line 1.5"
+        },
+        "431BAF04-267B-45C2-95EE-28303712A8BA" : {
+          "name" : "shapes gray\/data dotted"
+        },
+        "0139149B-C538-4FD2-9B2B-099B94FDAA7C" : {
+          "name" : "numbers dark\/purple semi"
+        },
+        "B0A4BE5F-7DCB-4AD0-95A0-89412ADFFAD5" : {
+          "name" : "Various Cards\/Comments_Forum_"
+        },
+        "10F53639-5759-4769-ACEE-17B3BAB06AE2" : {
+          "name" : "devices blue\/iphone x "
+        },
+        "597E514D-F496-4E17-8695-4808F134D5DC" : {
+          "name" : "Various Cards\/Pricing_Table_2"
+        },
+        "FE85CF67-427C-4C22-8445-351F09CE2481" : {
+          "name" : "arrows dark\/arrow 3.1 dotted"
+        },
+        "8EE5A113-0636-4911-BD23-D93A018E55E7" : {
+          "name" : "shapes gray\/preparation dotted"
+        },
+        "64C24036-03C2-40A2-B5AE-2F6BD41B56B8" : {
+          "name" : "numbers blue\/dark green outlined"
+        },
+        "1B1FE241-9E81-49CC-8A99-9D69378325EC" : {
+          "name" : "Modal Cards\/Page_-_Settings_2"
+        },
+        "FEE89704-47A6-4D49-A946-FF9ABF717D90" : {
+          "name" : "labels 2 gray\/error"
+        },
+        "A4694A8D-67B3-4473-87D6-BE788BF16B83" : {
+          "name" : "devices blue\/ipad white"
+        },
+        "0F905832-0835-4CA8-BAAF-013434A24DE5" : {
+          "name" : "arrows dark\/arrow 1.4"
+        },
+        "5E34A12B-0AAB-40C0-ADBA-68383979A305" : {
+          "name" : "arrows dark\/tag ver - arrow 1.1 dotted "
+        },
+        "1CD734F2-0C40-4241-8819-D894F73F1EE7" : {
+          "name" : "Small Cards\/Tags"
+        },
+        "5AB20698-2615-471C-A4C1-33000EFE51BE" : {
+          "name" : "Layout Cards\/_3_Rows"
+        },
+        "2E334681-2B86-41E4-8B36-AD546CA4EB87" : {
+          "name" : "Various Cards\/Pricing_Tables"
+        },
+        "C5623DD1-4678-4158-802D-3E1034CFF799" : {
+          "name" : "arrows dark\/arrow 4 dotted"
+        },
+        "150CF436-AAFF-40ED-A2F7-F9CB73182DCD" : {
+          "name" : "arrows gray\/tag ver - arrow 1 dotted"
+        },
+        "C6AC3012-0A90-47DA-82E2-C41883D2C832" : {
+          "name" : "arrows gray\/arrow 8.1"
+        },
+        "5C581827-8B8F-4B6A-A706-1FB16219013A" : {
+          "name" : "arrows gray\/tag ver - line 1.5"
+        },
+        "AEBC4662-46B5-41A0-B67D-66A1C77F7F09" : {
+          "name" : "arrows dark\/arrow 2.1"
+        },
+        "21C43A9D-DACF-4BDA-BC47-BEB844D87B4C" : {
+          "name" : "arrows blue\/arrow 4.1 dotted "
+        },
+        "8DA062DB-D6C8-43CA-83B2-D3C0D63815F4" : {
+          "name" : "Various Cards\/Documents_List"
+        },
+        "E27308F5-8AC0-48B2-8329-47F34AF175F4" : {
+          "name" : "Small Cards\/Edit"
+        },
+        "E5FACF9B-8C9E-4BD0-B10F-E507F78EA446" : {
+          "name" : "notes blue\/note RIGHT"
+        },
+        "1C289970-6ECE-4BF4-8F8F-2E2F5126F72C" : {
+          "name" : "arrows blue\/arrow 1.1"
+        },
+        "35BB852B-7D06-4B1B-9E12-760F5789AF4F" : {
+          "name" : "labels 2 blue\/cross"
+        },
+        "85C3C4DC-8ECD-4536-ACD8-B827DC75781E" : {
+          "name" : "shapes blue\/process dotted"
+        },
+        "25620439-8852-4200-89A5-8C3FAC1F910C" : {
+          "name" : "arrows gray\/tag ver - arrow 1.4"
+        },
+        "16864D53-A1D2-478D-8CFC-C82D04BDB32B" : {
+          "name" : "Small Cards\/Slideshow"
+        },
+        "DC3B4085-F1BD-4AB1-A021-7C4D666084BC" : {
+          "name" : "Small Cards\/Image_Pop_Up"
+        },
+        "3D80369B-1AF2-4F37-9C06-CB963EF3B54B" : {
+          "name" : "Various Cards\/Steps"
+        },
+        "D14CE456-799D-443B-A1BF-3A40E31839A8" : {
+          "name" : "Small Cards\/Player"
+        },
+        "2742F729-E25A-4179-A509-D2F3CA975304" : {
+          "name" : "arrows dark\/tag ver - arrow 1"
+        },
+        "554CA0B9-FF51-427A-BE8F-D620882E8E88" : {
+          "name" : "arrows blue\/arrow 7.1 dotted"
+        },
+        "894616D7-AA19-420F-AD6A-8E066A47CF18" : {
+          "name" : "Small Cards\/Message_Success"
+        },
+        "1B014180-8FA1-4686-ABA7-1CBEABE3F38A" : {
+          "name" : "Various Cards\/Sitemap"
+        },
+        "6491B06E-3331-4DF1-9FEB-85B93C12E6F1" : {
+          "name" : "letters dark\/blue outlined"
+        },
+        "4E120925-2F53-43D2-950F-CEBC497E2736" : {
+          "name" : "Various Cards\/Event"
+        },
+        "43EBFA59-2976-458A-8057-8EDD681EA38E" : {
+          "name" : "Layout Cards\/_4_Rows"
+        },
+        "FF86D200-070E-42E6-900C-4FDA0FF04CBC" : {
+          "name" : "simple blue\/inner page 2"
+        },
+        "AF8301DB-BAC5-4C44-9454-44A4B3C5E955" : {
+          "name" : "Layout Cards\/Large_Grid"
+        },
+        "96CE89A7-E01B-4960-B453-5052F91B05DF" : {
+          "name" : "Small Cards\/Register"
+        },
+        "AAB2D549-7D9A-4F47-8E24-43B03BEA94ED" : {
+          "name" : "arrows dark\/arrow 7"
+        },
+        "3F9B713B-315D-4774-B7A7-09519A803FCD" : {
+          "name" : "arrows gray\/tag hor - arrow 1.4 "
+        },
+        "6A26A412-B046-4CF2-A2D8-554678DCD25D" : {
+          "name" : "arrows gray\/arrow 3.1"
+        },
+        "01344580-3768-4F00-B511-EF9CFAFF1719" : {
+          "name" : "arrows gray\/arrow 6.1"
+        },
+        "5D902F9E-33EA-4529-864B-011BEF902D01" : {
+          "name" : "letters blue\/dark green solid"
+        },
+        "7E966537-1FDB-41D7-A72F-7C6ED0210C84" : {
+          "name" : "Small Cards\/Modal"
+        },
+        "E037C846-786A-405C-9EF0-A1C16C1AE395" : {
+          "name" : "Various Cards\/Timeline"
+        },
+        "C6FCD404-AD64-4645-B71C-B2AA9E3067B2" : {
+          "name" : "letters blue\/blue semi"
+        },
+        "82BD6947-FC8C-490B-B776-1E079BE64EBE" : {
+          "name" : "arrows gray\/arrow 1.2"
+        },
+        "3FF741C6-AD25-482C-8AC5-317187FB1E19" : {
+          "name" : "Various Cards\/Tabs"
+        },
+        "F264AB1A-1D22-4EDB-9900-877EF5E522B1" : {
+          "name" : "Small Cards\/Review"
+        },
+        "A83F04E1-3123-4BE1-A3CE-3A531BE23B2A" : {
+          "name" : "Small Cards\/Message_Error"
+        },
+        "A4B5F76A-ACF1-458C-BD2D-759BCBCA2309" : {
+          "name" : "arrows gray\/tag hor - arrow 1.4 dotted "
+        },
+        "F370AC89-5E30-4C54-A813-18E38C415847" : {
+          "name" : "Small Cards\/Add"
+        },
+        "DECE60F2-3C9C-4523-9887-8B9353D79254" : {
+          "name" : "shapes gray\/manual operation dotted"
+        },
+        "1DBC57BC-0C03-4D83-AAF3-6BAC2945D40A" : {
+          "name" : "notes blue\/note UP"
+        },
+        "D2C5D8F6-106E-4255-BB07-B7D69FB95E6D" : {
+          "name" : "Small Cards\/List"
+        },
+        "058A8B89-573B-460A-A83D-429AC58568B9" : {
+          "name" : "arrows blue\/line 1.5"
+        },
+        "40BCA783-E28D-4607-B65B-A52D72F7336F" : {
+          "name" : "Various Cards\/Gallery_3"
+        },
+        "5F9D1FF6-09CD-4206-9F68-81D833860702" : {
+          "name" : "letters blue\/brown outlined"
+        },
+        "E4A1857D-A139-4F69-8E7B-4A45D7536F1F" : {
+          "name" : "Home Page Cards\/Dashboard_R"
+        },
+        "6DC38C7B-8C54-46D8-84F7-6BCCE97DF64B" : {
+          "name" : "numbers dark\/green outlined"
+        },
+        "49FC937D-C264-4A42-97ED-27E125B3B165" : {
+          "name" : "numbers dark\/dark green outlined"
+        },
+        "1F8F08EF-8693-4303-B897-4D232FFC726E" : {
+          "name" : "arrows gray\/arrow 1.3 dotted"
+        },
+        "3D079CC8-8D65-495E-981A-2FE2571EAD8E" : {
+          "name" : "shapes blue\/on-page ref dotted"
+        },
+        "9DF40793-E5DA-424E-8B77-35324349CB69" : {
+          "name" : "arrows blue\/arrow 6 dotted"
+        },
+        "5B508D60-F97A-4482-9C8E-8310D30B8EF7" : {
+          "name" : "arrows gray\/arrow 8.2"
+        },
+        "9999E9B6-52AD-49AE-80DF-9F75451C0F21" : {
+          "name" : "Layout Cards\/Landing_Page_7"
+        },
+        "3A441FB7-D94B-4C93-A554-FCDF33F3524A" : {
+          "name" : "Various Cards\/Rating"
+        },
+        "18F9ABDB-F057-4CCF-866C-258D2AF99F56" : {
+          "name" : "letters dark\/orange semi"
+        },
+        "96A34FB9-D353-4CFA-9A5C-CC1C55CDDB37" : {
+          "name" : "letters dark\/dark green outlined"
+        },
+        "FEFDCFE6-55B5-4360-B3C5-B32C8DA09491" : {
+          "name" : "numbers dark\/blue outlined"
+        },
+        "C80D9BB9-DAFF-46BA-8790-289ACDF805E4" : {
+          "name" : "Small Cards\/Share"
+        },
+        "80A7C5DE-470C-4BB9-A640-040EC7AB62DA" : {
+          "name" : "notes blue\/note small UP"
+        },
+        "1DBB2BF1-8237-4E17-AE48-3A8415EB6A44" : {
+          "name" : "arrows dark\/tag hor - line 1.5 dotted "
+        },
+        "4207D47C-A3F9-4083-A643-0D6449AE1F3B" : {
+          "name" : "arrows gray\/tag hor - arrow 1.3 "
+        },
+        "D0D10CE2-FCF2-410C-8DA9-F9757D79A29C" : {
+          "name" : "shapes dark\/preparation dotted"
+        },
+        "2688EB18-2F24-44EC-9A9C-14E3300C0220" : {
+          "name" : "Various Cards\/Timeline_2"
+        },
+        "6C373363-6E54-456D-AC2F-A18B01362751" : {
+          "name" : "numbers gray\/purple semi"
+        },
+        "67D73470-3C83-4D76-994C-54A5B0DD44E6" : {
+          "name" : "arrows blue\/tag hor - arrow 1 dotted"
+        },
+        "0B941E54-C406-4F47-9764-4AA282D3C515" : {
+          "name" : "shapes gray\/multi process dotted"
+        },
+        "C357C34F-473A-4224-A93E-9669C507444A" : {
+          "name" : "labels gray\/label 2 pill "
+        },
+        "9F550F08-6D2D-48B4-A69F-F473732D2F55" : {
+          "name" : "Various Cards\/Accordion"
+        },
+        "A0916E33-5F42-4291-99F0-4296692D8EE4" : {
+          "name" : "letters gray\/blue semi"
+        },
+        "42178C48-690E-446C-BFE7-5114F14CD3BF" : {
+          "name" : "letters gray\/gray outlined"
+        },
+        "9AC76DD1-BCFA-4E08-8E8B-3F2F40ACDD07" : {
+          "name" : "arrows blue\/arrow 2.1 dotted"
+        },
+        "AF15AF59-D049-4A1C-A867-A8FB3AFD7988" : {
+          "name" : "shapes gray\/on-page ref"
+        },
+        "6947B7CA-ACEF-49C9-AEA7-64041864F951" : {
+          "name" : "shapes dark\/data"
+        },
+        "9ADF7377-5C49-4CE6-AEE0-E8FF1D4E51D5" : {
+          "name" : "arrows gray\/arrow 5.1 dotted"
+        },
+        "E3A9B667-4656-4C2F-8112-3AC26DCF6A42" : {
+          "name" : "Modal Cards\/Gallery_-_Single"
+        },
+        "B7E52A2A-306A-4F4B-90B8-6C3B35D9835C" : {
+          "name" : "letters blue\/yellow solid"
+        },
+        "79412FEA-962D-41F2-ADEF-09F12D6E1E27" : {
+          "name" : "E-commerce Cards\/Confirmation"
+        },
+        "2A0125A3-BFCC-4F5F-89E3-004B991E7214" : {
+          "name" : "arrows dark\/arrow 1.2"
+        },
+        "E690A054-ED0C-483E-90DC-ECCB62EAA746" : {
+          "name" : "numbers gray\/blue semi"
+        },
+        "E5BF7727-5B91-41B8-BF68-A83C7D10A616" : {
+          "name" : "arrows gray\/tag hor - arrow 1.1 dotted "
+        },
+        "6C3BA05E-530B-4719-B441-DE39DCC7EC4A" : {
+          "name" : "arrows blue\/tag ver - arrow 1.3 dotted"
+        },
+        "932DACDF-1966-4659-A024-93014522C048" : {
+          "name" : "numbers dark\/orange solid"
+        },
+        "7A2EE588-2321-408D-99C1-5FADDC6EF40A" : {
+          "name" : "arrows blue\/tag hor - line 1.5 dotted "
+        },
+        "86DC9B30-EC4B-4EED-93D5-519BF3973119" : {
+          "name" : "arrows dark\/arrow 6.1 dotted"
+        },
+        "3762AE60-595D-40FD-9E97-05A97C4CCBCD" : {
+          "name" : "arrows gray\/arrow 1.2 dotted"
+        },
+        "ECFB3DCA-3CC4-4F27-8E64-324F76D5E9DE" : {
+          "name" : "Various Cards\/Testimonials"
+        },
+        "E5803BE2-0B96-4A5B-9D87-5AF019E2AD23" : {
+          "name" : "numbers dark\/blue solid"
+        },
+        "1D108214-50A4-465A-9186-6C7329476A00" : {
+          "name" : "labels gray\/label 3 pill"
+        },
+        "0C1C4618-D86F-47AE-8DEA-E961F46618D3" : {
+          "name" : "arrows blue\/line 1.5 dotted"
+        },
+        "3A92A495-E75E-445D-8AF4-24A8B809781F" : {
+          "name" : "labels 2 dark\/tick"
+        },
+        "D92454BE-82FC-417B-8CC2-A36F503C5D7E" : {
+          "name" : "numbers blue\/orange solid"
+        },
+        "9C9274AE-7A22-4D43-B357-2D22FE6F26A9" : {
+          "name" : "letters blue\/orange solid"
+        },
+        "4B55A74B-4EE4-47CE-85AA-1AD96797146B" : {
+          "name" : "numbers gray\/brown outlined"
+        },
+        "2489EF7D-30A7-40CC-9353-1CCFA00A71F0" : {
+          "name" : "arrows gray\/tag ver - arrow 1.2"
+        },
+        "7596F463-BDDF-4B29-86A3-7038788A452C" : {
+          "name" : "arrows gray\/arrow 1.3"
+        },
+        "0981CE8E-499E-4364-85DE-C739C452A291" : {
+          "name" : "arrows gray\/tag hor - arrow 1.2 "
+        },
+        "5F9122EF-26A8-4221-AFCB-1458074D3935" : {
+          "name" : "letters blue\/dark green outlined"
+        },
+        "5D652A64-D859-4A5B-ADF1-8CAADDC9A3DD" : {
+          "name" : "shapes dark\/manual operation"
+        },
+        "6C8A54C0-6206-493F-B7B2-8653121BBE5E" : {
+          "name" : "E-commerce Cards\/Filters"
+        },
+        "C167618C-EE5F-42F3-8BDE-782F635C8758" : {
+          "name" : "arrows blue\/arrow 6.1"
+        },
+        "224556E9-7FB0-4F1D-853A-6045C4ADCF23" : {
+          "name" : "numbers gray\/gray solid"
+        },
+        "4E3919BF-325A-410A-B6DD-CBFFE90A6FF4" : {
+          "name" : "Modal Cards\/Page_-_Error"
+        },
+        "5FBFFAD5-B799-4B3E-9174-F550ED807DE9" : {
+          "name" : "numbers blue\/green semi"
+        },
+        "A29F762F-9774-4D41-854A-FC7D07969B8A" : {
+          "name" : "E-commerce Cards\/Cart"
+        },
+        "FD7CE7A3-D60F-4EA9-B29E-FAB0F03F38E3" : {
+          "name" : "letters gray\/yellow solid"
+        },
+        "A50778B7-C26F-4983-B9E2-1501FD30C497" : {
+          "name" : "shapes blue\/start-end dotted"
+        },
+        "D2B20B46-D576-4A1F-8167-15AE04ACF906" : {
+          "name" : "devices gray\/ipad white"
+        },
+        "6704CA22-3AEE-4535-8554-A09E3CB02504" : {
+          "name" : "numbers blue\/purple semi"
+        },
+        "2A941108-CA02-4008-B3FF-FF3C34B633C0" : {
+          "name" : "Various Cards\/Testimonials_4"
+        },
+        "19E8E389-5DC7-408B-89FE-261119E97E95" : {
+          "name" : "Modal Cards\/Page_-_Register"
+        },
+        "E25DFFF9-4A5E-427F-9956-DD4CC480E1F0" : {
+          "name" : "devices blue\/watch"
+        },
+        "6761EC94-E011-44F3-BAAD-CED63C9319FB" : {
+          "name" : "shapes gray\/delay"
+        },
+        "4EEDE8E6-D490-4681-AD50-DAFAB157A240" : {
+          "name" : "arrows gray\/arrow 8.3"
+        },
+        "1FE7ADAD-43C6-45A0-BD9F-E63454ED38FD" : {
+          "name" : "Small Cards\/Filters"
+        },
+        "7D439FCB-87FF-4211-AA4D-F6E74DDBAD0C" : {
+          "name" : "arrows gray\/arrow 1.4 dotted"
+        },
+        "FD5E812E-7935-4FF8-B089-14B08238C0B4" : {
+          "name" : "numbers blue\/dark green solid"
+        },
+        "DEEFC8EB-B67F-47E8-A298-45B10AA2A1FE" : {
+          "name" : "arrows gray\/arrow 5"
+        },
+        "53FC8391-2518-46DD-A7A9-4B2DFDD0832D" : {
+          "name" : "devices blue\/watch white"
+        },
+        "011F935C-9364-45CA-926C-8056CE29AC10" : {
+          "name" : "arrows gray\/arrow 4 dotted"
+        },
+        "62A567FE-CDF9-457A-8956-9B9451790FD7" : {
+          "name" : "arrows dark\/arrow 3 dotted"
+        },
+        "717ABC79-2C46-4631-8ABC-8FADC2D22822" : {
+          "name" : "Layout Cards\/Landing_Page"
+        },
+        "B2A57062-1437-489A-A394-6ADA7100933C" : {
+          "name" : "labels 2 gray\/yes"
+        },
+        "50B6D370-AAD5-4C2D-ACFC-EA8C143E64C8" : {
+          "name" : "arrows dark\/arrow 7.1 dotted"
+        },
+        "0C947727-AFEB-4078-A462-EFCE82943A0A" : {
+          "name" : "arrows gray\/tag ver - arrow 1.3"
+        },
+        "7E88FD30-EA61-4361-8799-20DD3E717DF5" : {
+          "name" : "Various Cards\/Tags"
+        },
+        "F6CED649-42D9-46D4-BE20-30CAD3938C54" : {
+          "name" : "Various Cards\/Text_Article_1_column_title"
+        },
+        "A7E7CAAD-A6F7-4293-9EC3-0A0444F060DB" : {
+          "name" : "Various Cards\/Gallery_7"
+        },
+        "07AAE053-34BE-42AF-8E4F-CFF7DA092ECE" : {
+          "name" : "labels 2 blue\/tick"
+        },
+        "4FDC8035-C1EA-4AE0-B6B6-3025CA0E3A6D" : {
+          "name" : "letters blue\/orange outlined"
+        },
+        "CC283512-B1B8-49B2-AA15-A6BE88032634" : {
+          "name" : "arrows gray\/arrow 1"
+        },
+        "2FBF5047-C0BC-4757-B86B-FA7A801C0E4E" : {
+          "name" : "Various Cards\/Article_Single_2"
+        },
+        "63C8A2E0-05FA-479E-A5AA-2F2C83B4F475" : {
+          "name" : "Various Cards\/Directory"
+        },
+        "2B95C212-CDA6-4750-B207-ED4C80FE2D44" : {
+          "name" : "arrows blue\/arrow 1.3"
+        },
+        "D1A76840-6242-4893-8B54-763742048FD5" : {
+          "name" : "arrows gray\/arrow 5 dotted"
+        },
+        "C4E14CA3-1A83-43BA-842C-D53E04545F32" : {
+          "name" : "Small Cards\/Loader"
+        },
+        "D9CA9B3A-976F-47C0-B4B6-95C5996361D1" : {
+          "name" : "letters blue\/yellow outlined"
+        },
+        "F82B65DF-7BA1-43DA-B857-844070A1FB59" : {
+          "name" : "arrows blue\/tag hor - arrow 1.4 dotted "
+        },
+        "89799C53-1F9C-4B94-90B3-F93464F07ACF" : {
+          "name" : "arrows gray\/arrow 7.1"
+        },
+        "0C1E89D8-BCC9-406A-B632-4DD7BFEE847F" : {
+          "name" : "Small Cards\/Accordion"
+        },
+        "0EBDFFA5-50CE-4814-A4DA-EEB5D84D9787" : {
+          "name" : "devices gray\/iphone x "
+        },
+        "4DF68DA7-DA2D-4C0C-94BD-B836BED7C196" : {
+          "name" : "numbers blue\/gray solid"
+        },
+        "ABCEC843-ECF2-4036-87DF-9A3440685997" : {
+          "name" : "simple dark\/main page"
+        },
+        "F21B7BAB-C5CE-47B5-B39B-083652B9B183" : {
+          "name" : "simple gray\/inner page 2"
+        },
+        "0F9FAA4A-747B-4410-9F60-C6F371DE1FFD" : {
+          "name" : "numbers gray\/purple outlined"
+        },
+        "1A05E7C6-C779-471B-808F-6C1097A01CFC" : {
+          "name" : "devices blue\/ipad"
+        },
+        "6273E5F2-6F37-4209-A6BE-08D259561126" : {
+          "name" : "numbers dark\/purple solid"
+        },
+        "0A09B61C-2669-45A4-86A1-FA986E64AC38" : {
+          "name" : "Various Cards\/Profile"
+        },
+        "5365EAC5-6DB0-4111-987D-E0B2D5161DDD" : {
+          "name" : "arrows blue\/arrow 5.1"
+        },
+        "4F8ED0A8-80A6-4B0C-85B2-50E13D80E885" : {
+          "name" : "labels dark\/label 1 pill"
+        },
+        "AF70140D-D75D-4F96-A81E-81D5918AC6B1" : {
+          "name" : "letters gray\/green solid"
+        },
+        "E759D2F1-49A6-4887-812E-E4C5A9332DD6" : {
+          "name" : "numbers dark\/black outlined"
+        },
+        "5DE7F0C2-58DA-4398-88EC-A8E7F2F827A9" : {
+          "name" : "numbers dark\/gray semi"
+        },
+        "35C4E7A8-17E7-4664-9006-7B266907F1CC" : {
+          "name" : "arrows dark\/tag ver - arrow 1.3 dotted"
+        },
+        "892F37FD-85A8-4FA0-A07A-88E2F8E73C6E" : {
+          "name" : "labels gray\/label 1 pill"
+        },
+        "6BDB087C-1424-47D1-8339-CB6155A4ABDE" : {
+          "name" : "shapes blue\/preparation"
+        },
+        "9FDF0E9D-645A-489E-A892-89B5F7D575EA" : {
+          "name" : "letters dark\/blue solid"
+        },
+        "0D33828D-8ABC-4823-A996-2B806CB13AF5" : {
+          "name" : "shapes gray\/multi process"
+        },
+        "CBCCA160-1ABC-44C7-8B39-8523569D2403" : {
+          "name" : "Layout Cards\/Landing_Page_5"
+        },
+        "89D44E12-C289-498C-A536-725F6014266D" : {
+          "name" : "shapes blue\/manual operation dotted"
+        },
+        "CBD2D60A-B089-4FDF-BE1F-8D95EFF23733" : {
+          "name" : "Various Cards\/Gallery_6"
+        },
+        "5ED249AB-3D4D-45EC-85B3-B4B81BE1923F" : {
+          "name" : "numbers gray\/gray semi"
+        },
+        "09347779-C918-4E1A-A020-379E5884DFB9" : {
+          "name" : "letters blue\/brown semi"
+        },
+        "4E001147-E38E-442D-B336-CD84CCDF550E" : {
+          "name" : "arrows gray\/arrow 1 dotted"
+        },
+        "678F0612-FE8B-40CB-B92A-1AA7E3DA8A79" : {
+          "name" : "letters gray\/yellow outlined"
+        },
+        "010DC86B-5739-4A4E-8597-E51D7DDB9762" : {
+          "name" : "arrows blue\/arrow 8.3 dotted"
+        },
+        "6EC7627B-3F79-47EA-B2EB-DAD849C51708" : {
+          "name" : "shapes dark\/delay"
+        },
+        "7C01E705-2044-400D-BB73-5CB9FED4DFE5" : {
+          "name" : "shapes gray\/manual operation"
+        },
+        "F345E96D-D783-4D30-B42F-08AF9B9CB8F8" : {
+          "name" : "letters dark\/purple solid"
+        },
+        "B3FE4A49-B5C9-4899-B47E-9AEF631F3309" : {
+          "name" : "Various Cards\/Gallery_2"
+        },
+        "D6B98E2F-9A8A-4F15-A464-0212E6562090" : {
+          "name" : "labels 2 dark\/label"
+        },
+        "6F5D20D6-A7E7-4CA0-8D8A-2E57EB3BC109" : {
+          "name" : "shapes dark\/preparation"
+        },
+        "630EBC1C-2265-444E-82F8-E593CB708A6D" : {
+          "name" : "numbers gray\/yellow outlined"
+        },
+        "24C852F0-99D5-4DC3-B93B-1AA38223F2E3" : {
+          "name" : "Various Cards\/Gallery_1"
+        },
+        "FFA93AB9-6236-4904-A4C3-4197998FA0C0" : {
+          "name" : "Small Cards\/Countdown"
+        },
+        "CE6C0A14-6A8C-48DF-87A0-B3B661700B45" : {
+          "name" : "notes blue\/note small LEFT "
+        },
+        "5DA2700F-B90A-4119-9296-5F2FD591DEDC" : {
+          "name" : "Various Cards\/Gallery_5"
+        },
+        "73522D6E-0C67-4647-80D0-118989F4C23A" : {
+          "name" : "labels 2 gray\/label"
+        },
+        "3FFA0D8B-F2BF-4C1F-B9A1-8EE7894FB304" : {
+          "name" : "arrows blue\/arrow 8 dotted"
+        },
+        "70EA4B7D-5EE0-4007-96E8-5445809CFB67" : {
+          "name" : "numbers dark\/black solid"
+        },
+        "4EF66367-27F3-46D2-B811-FA514C61D7BD" : {
+          "name" : "Layout Cards\/_4_Columns"
+        },
+        "4990F837-B384-4E70-B094-DACFC5E438A9" : {
+          "name" : "arrows blue\/tag ver - arrow 1.1 dotted "
+        },
+        "42703A7A-70D4-4C13-976D-68086828E32E" : {
+          "name" : "letters blue\/purple solid"
+        },
+        "B02B08A1-97E0-4CFF-B56E-CB6235FA2FEF" : {
+          "name" : "arrows blue\/arrow 8.1 dotted"
+        },
+        "265A3057-B482-4FC6-A19F-3431CD7B6B09" : {
+          "name" : "notes dark\/note small RIGHT"
+        },
+        "A3C25266-D743-4BF0-9BCD-21DAF0DDBBEB" : {
+          "name" : "letters dark\/orange solid"
+        },
+        "530C6625-620A-4BF1-A522-49ED4089F701" : {
+          "name" : "arrows gray\/tag hor - line 1.5 "
+        },
+        "FC7465E0-662D-4617-BC23-46BC00BF7EA8" : {
+          "name" : "Layout Cards\/Landing_Page_3"
+        },
+        "96337AD7-4D21-4B24-B5E5-27A8E4276155" : {
+          "name" : "arrows gray\/arrow 8 dotted"
+        },
+        "EA26C868-7AE0-4BC4-9149-11898CE48B88" : {
+          "name" : "arrows gray\/arrow 2 dotted"
+        },
+        "A828CA0E-9B3E-4ADF-B7CA-D166F3EF5CC4" : {
+          "name" : "devices dark\/iphone white"
+        },
+        "78AFB131-DD36-48C0-A28A-2CF85CBB7A25" : {
+          "name" : "Various Cards\/Testimonials_3"
+        },
+        "DD823CA8-069E-44F2-A73B-7D4177C018F9" : {
+          "name" : "notes gray\/note small LEFT "
+        },
+        "901F91C5-D775-4B55-8554-1655B886AFF6" : {
+          "name" : "letters blue\/gray outlined"
+        },
+        "DE807F3F-096B-4C21-9BCE-D59FBC7C7AF0" : {
+          "name" : "Various Cards\/Success"
+        },
+        "41EE54AE-98CC-465C-BFF7-5859850D3617" : {
+          "name" : "arrows dark\/arrow 3"
+        },
+        "0859D285-7D43-4FAA-BD67-0B9EB718983F" : {
+          "name" : "Various Cards\/List_Bullet_Points"
+        },
+        "F10C2D4F-DAE9-4C55-B2D3-CF9976695C44" : {
+          "name" : "arrows blue\/tag hor - arrow 1.1 dotted "
+        },
+        "8ABF685C-B26A-4F05-97B2-D055979BEDCA" : {
+          "name" : "labels 2 dark\/success"
+        },
+        "FC9525CD-7521-40B2-8665-554B649F2C33" : {
+          "name" : "shapes gray\/process"
+        },
+        "E570FABD-EADE-4FAE-B1CE-EDD600B79AB6" : {
+          "name" : "arrows dark\/arrow 8.3 dotted"
+        },
+        "DAB0BA73-E012-4A45-9620-84B3FA10B0F6" : {
+          "name" : "arrows dark\/arrow 1"
+        },
+        "49D72A86-F744-4AB6-BAA4-649FADB40E36" : {
+          "name" : "arrows blue\/arrow 1.2"
+        },
+        "78EB6FA3-2BFA-4E8E-B79C-8A0CCD44058E" : {
+          "name" : "arrows dark\/arrow 6"
+        },
+        "C00919E2-E58C-4D6B-827D-C42D4263A0F1" : {
+          "name" : "Layout Cards\/_2_Rows"
+        },
+        "B113E5B8-62B0-4D5C-9208-1D020DD015CD" : {
+          "name" : "labels 2 dark\/cross"
+        },
+        "29436602-4D3D-402F-BD81-3BD6EE36BD85" : {
+          "name" : "Various Cards\/About"
+        },
+        "4FAD2B10-8FEE-4477-8CF2-37763EC97702" : {
+          "name" : "notes dark\/note UP"
+        },
+        "2ED51019-1720-4E69-A604-657FC6CDDDBA" : {
+          "name" : "shapes dark\/off-page ref"
+        },
+        "A452008D-DD5F-4A65-89A7-EA7A7AA96A6F" : {
+          "name" : "Small Cards\/Comment"
+        },
+        "76CA87C3-14BF-4C66-9641-B00A5DF87A93" : {
+          "name" : "numbers dark\/orange outlined"
+        },
+        "302789B9-E4E9-4CD8-963D-727DCA6BCCFA" : {
+          "name" : "letters blue\/brown solid"
+        },
+        "3E4E38A1-60E5-428D-9C1D-B40ED2D9161C" : {
+          "name" : "notes gray\/note LEFT"
+        },
+        "AE96DFE0-E3FA-4113-B590-B960434F5D14" : {
+          "name" : "arrows blue\/tag ver - line 1.5"
+        },
+        "B2FD5635-4010-4B49-8996-01EDA1DD5247" : {
+          "name" : "arrows blue\/tag ver - arrow 1.4"
+        },
+        "B1AE3ED9-E363-4980-9CF3-4202FF9E134E" : {
+          "name" : "arrows dark\/arrow 4"
+        },
+        "D4931DF5-CDC6-4335-84DD-A833FE25E31F" : {
+          "name" : "notes blue\/note LEFT"
+        },
+        "D4296CDD-D59C-4E56-A76E-5C4028D187F8" : {
+          "name" : "Various Cards\/Gallery_Carousel_2"
+        },
+        "CC73A357-5A23-4E0D-8357-90345464D8EB" : {
+          "name" : "arrows gray\/tag hor - arrow 1 dotted"
+        },
+        "4CECEB01-C159-4BE1-B7FB-03D3A033C472" : {
+          "name" : "Various Cards\/Portfolio_1"
+        },
+        "D08893D0-3EB3-4666-BA9D-FD649B7C31F5" : {
+          "name" : "Various Cards\/Video_Gallery"
+        },
+        "9B10AD9B-9078-458B-A9DB-5AAAECAD557B" : {
+          "name" : "arrows gray\/arrow 2.1"
+        },
+        "436920AD-31A6-4897-92A6-2E7310BC53DA" : {
+          "name" : "simple blue\/inner page"
+        },
+        "8CA082B5-7E45-4167-B4D7-A683540AA707" : {
+          "name" : "numbers blue\/gray semi"
+        },
+        "340971F3-5E69-4D76-956A-740807E1D156" : {
+          "name" : "Various Cards\/Documents"
+        },
+        "AE6EAAF9-E880-4E14-96DA-498DA127ABD4" : {
+          "name" : "Modal Cards\/Team_-_Single_pop_up"
+        },
+        "0C63A1E6-526E-4963-A78F-A20BE5D5D260" : {
+          "name" : "Various Cards\/Error"
+        },
+        "46C0EFC9-D02D-4DC2-A819-3C792EA96081" : {
+          "name" : "numbers dark\/green semi"
+        },
+        "D96918E5-9B90-45F4-B0DD-FA811B9CE72B" : {
+          "name" : "shapes blue\/off-page ref"
+        },
+        "2708724E-C7F3-4FF0-AD21-26B06C4E28A4" : {
+          "name" : "letters dark\/green semi"
+        },
+        "1EF92D29-6E31-4436-A5B5-EE3E5742DA58" : {
+          "name" : "numbers blue\/purple solid"
+        },
+        "78312FAD-57D8-4D9A-A753-E0BFCD7CD9B7" : {
+          "name" : "arrows blue\/arrow 1.4"
+        },
+        "14F7F485-9CFD-424B-8B68-BB9838A868B0" : {
+          "name" : "arrows blue\/arrow 1.2 dotted"
+        },
+        "35FC1163-72E1-4CC3-A978-5271AE12FC43" : {
+          "name" : "arrows dark\/arrow 1.2 dotted"
+        },
+        "59537589-3471-4C99-82C6-7A40F81EFD76" : {
+          "name" : "shapes blue\/multi process"
+        },
+        "8B7034AD-10D5-4292-9D51-EB14A464AB37" : {
+          "name" : "arrows dark\/tag hor - arrow 1 "
+        },
+        "23C630D7-7548-433E-B5BA-B8E9D07EA9AC" : {
+          "name" : "Various Cards\/Map"
+        },
+        "64BBA02F-C579-433C-BC01-DF2A14D8F7DD" : {
+          "name" : "shapes gray\/on-page ref dotted"
+        },
+        "F3FD8798-83B7-4DAA-9053-F5483226219F" : {
+          "name" : "arrows blue\/arrow 1.3 dotted"
+        },
+        "069CA504-35C1-45E4-9A4F-22544F83E86D" : {
+          "name" : "letters blue\/blue outlined"
+        },
+        "1F18FAC1-62DB-4F22-9E71-4945E5057FF2" : {
+          "name" : "letters gray\/dark green semi"
+        },
+        "C5CE1263-ED61-4B69-A21E-589F6A0797A2" : {
+          "name" : "Various Cards\/Features_2"
+        },
+        "E82FBBA4-1968-4D5C-8EC3-25D70A3DA338" : {
+          "name" : "arrows gray\/arrow 1.4"
+        },
+        "6FAB4289-E9AA-45F9-AB92-AB8C634B801A" : {
+          "name" : "labels blue\/label 1 pill"
+        },
+        "39AE1961-D948-47BB-85C1-8446512C82F5" : {
+          "name" : "Various Cards\/Under_Construction"
+        },
+        "83C24495-BDDA-4DB2-B942-2BF1ED9D51C1" : {
+          "name" : "shapes dark\/on-page ref"
+        },
+        "CDE163B3-E04E-4F85-B6CB-D8C6114A8963" : {
+          "name" : "arrows dark\/arrow 8.2"
+        },
+        "D7CEC759-9C90-41E8-BD27-A2223BFE5027" : {
+          "name" : "shapes dark\/document dotted"
+        },
+        "228D8B72-CC9F-4BC7-BCA3-3285D6CD1625" : {
+          "name" : "arrows blue\/arrow 1.4 dotted"
+        },
+        "FC5821A9-7778-42C4-93DD-2062460A34FA" : {
+          "name" : "arrows dark\/arrow 4.1"
+        },
+        "5B6FEB61-11E1-49EF-818F-E931CEE793E7" : {
+          "name" : "arrows dark\/arrow 1.4 dotted"
+        },
+        "D611AFDC-217D-4AC1-BC13-783EAC1454ED" : {
+          "name" : "Various Cards\/FAQ_Help_List"
+        },
+        "B79E2B9D-04DB-4DE8-92B7-6DBB101A991D" : {
+          "name" : "arrows gray\/tag hor - arrow 1.1 "
+        },
+        "41E83EE5-D1BE-402B-B852-35E8657B9565" : {
+          "name" : "shapes blue\/multi process dotted"
+        },
+        "57B9FF97-A0E3-49BB-8A31-B071BE2A1D65" : {
+          "name" : "shapes dark\/start-end"
+        },
+        "CA7287A2-7295-48E0-B425-5E9D987816C9" : {
+          "name" : "arrows dark\/arrow 8.3"
+        },
+        "C2DC2F06-9F95-4013-BE1E-FE6E7EE15B92" : {
+          "name" : "numbers gray\/blue solid"
+        },
+        "2B03D334-C602-4F7F-B061-4B49A1B2EE46" : {
+          "name" : "letters dark\/black semi"
+        },
+        "856112BF-8905-4C75-BA7C-889C34A8B9BE" : {
+          "name" : "Various Cards\/Register"
+        },
+        "19DC479F-2790-43CF-9F64-5ACB13031663" : {
+          "name" : "labels blue\/label 2 pill "
+        },
+        "77220A51-02C5-4B15-BFA6-0169E9BCAEF9" : {
+          "name" : "Various Cards\/Portfolio_Single"
+        },
+        "F6AB94AD-E19C-4F1C-AE35-DDE3BD29C56A" : {
+          "name" : "Various Cards\/Features_1"
+        },
+        "193B1D02-90E8-484D-AFC5-3BE9BFC4FF63" : {
+          "name" : "notes dark\/note DOWN"
+        },
+        "8D39017C-C7E0-450E-BAA2-C8350CE45428" : {
+          "name" : "arrows gray\/arrow 8.1 dotted"
+        },
+        "C7B5E305-99BA-46AD-AA9F-8B88EE7B2437" : {
+          "name" : "shapes dark\/manual operation dotted"
+        },
+        "ECB8ACC0-3E50-489C-BBB5-B29E2F58C9CF" : {
+          "name" : "arrows blue\/tag hor - arrow 1 "
+        },
+        "FA3B4541-C571-44F6-8BA7-570A1266B2BC" : {
+          "name" : "simple gray\/inner page"
+        },
+        "1A4230B1-38FB-4DBB-A403-CDB4AD2EFC39" : {
+          "name" : "arrows gray\/arrow 4"
+        },
+        "2C3B41A8-C81A-425C-8A34-62EE1AE3CB6E" : {
+          "name" : "letters dark\/gray outlined"
+        },
+        "93C24309-DBA4-45C5-A297-F5BB4A667D32" : {
+          "name" : "letters blue\/dark green semi"
+        },
+        "61EC5409-FA31-4B21-8DE9-04BB2A76179C" : {
+          "name" : "Small Cards\/Create"
+        },
+        "A46BCB82-F55F-433C-8E05-B4CE6EE5CCD1" : {
+          "name" : "numbers gray\/yellow solid"
+        },
+        "FFCFC5EF-81FE-4F25-A814-F7471316DDD0" : {
+          "name" : "letters gray\/dark green outlined"
+        },
+        "674FE9BF-D641-4194-A279-8642B7A2DF92" : {
+          "name" : "shapes gray\/start-end"
+        },
+        "8D86D385-2ECE-4CB5-A27D-EAA5B8A45D76" : {
+          "name" : "Small Cards\/Login"
+        },
+        "C549195F-E78F-4B9E-A97A-743B56EFC933" : {
+          "name" : "letters blue\/orange semi"
+        },
+        "E313E4CF-1773-4616-9C43-06FEA5FD1D19" : {
+          "name" : "arrows gray\/tag ver - arrow 1.4 dotted"
+        },
+        "844A2543-DA6F-4E68-BD99-679175227384" : {
+          "name" : "numbers gray\/green outlined"
+        },
+        "4D83B4D1-8463-46C9-AF9C-910B6ABF164C" : {
+          "name" : "letters dark\/purple semi"
+        },
+        "8CA08F7F-1448-4562-936C-527E4807BC60" : {
+          "name" : "numbers blue\/green outlined"
+        },
+        "9DC81BC4-F159-4A75-99E8-11B6FE3F9C22" : {
+          "name" : "devices dark\/iphone"
+        },
+        "C0832DE2-46F3-4288-A0D4-F49631EB88B9" : {
+          "name" : "numbers dark\/green solid"
+        },
+        "8B21B419-EBE0-43C4-BD0E-FBB7757DDC73" : {
+          "name" : "notes dark\/note small LEFT "
+        },
+        "3FB2AE0D-8EA2-440A-8FA7-8CEC1A993E17" : {
+          "name" : "Various Cards\/Magazine"
+        },
+        "76B49619-EEA0-443A-867C-29FC560D16FF" : {
+          "name" : "Layout Cards\/Dual_Sidebar"
+        },
+        "2C2BC233-086B-44EB-AE9F-75C20E6D09BE" : {
+          "name" : "Small Cards\/Bio"
+        },
+        "C57C8409-715C-4F09-8787-80F779F2CF7D" : {
+          "name" : "arrows blue\/arrow 2.1"
+        },
+        "E6106D02-905B-4608-AD29-E409D9C1493B" : {
+          "name" : "arrows dark\/arrow 5.1 dotted"
+        },
+        "E1DBF24F-DFBC-40D8-998F-6D6970407239" : {
+          "name" : "Various Cards\/Document_Single"
+        },
+        "B3F82252-6C94-4E60-AC04-CECA75289640" : {
+          "name" : "arrows blue\/arrow 5"
+        },
+        "66B63188-E513-4216-94DA-40639EC6A047" : {
+          "name" : "numbers blue\/blue outlined"
+        },
+        "E42B95EE-2F22-4C11-944B-423D473A41DD" : {
+          "name" : "numbers blue\/blue semi"
+        },
+        "303AE30A-ED02-4F34-93CC-6C0985674938" : {
+          "name" : "labels gray\/label 2 square "
+        },
+        "4D79FE65-8082-4926-BD92-35CCDC521207" : {
+          "name" : "arrows dark\/arrow 6.1"
+        },
+        "ED560ECA-4441-4F30-B72A-142668DA5983" : {
+          "name" : "arrows blue\/arrow 7.1"
+        },
+        "B020FA3D-8967-449C-BE71-68FFA14178DD" : {
+          "name" : "notes gray\/note small RIGHT"
+        },
+        "3E0BCC3E-7A6E-4F3F-93E2-6756AD196E47" : {
+          "name" : "notes gray\/note UP"
+        },
+        "23AF77C7-8F3C-4F7D-9EBC-03C176F536EB" : {
+          "name" : "arrows gray\/arrow 6 dotted"
+        },
+        "87EFD33D-24ED-41F4-9EA0-5C2A45447EAF" : {
+          "name" : "arrows blue\/tag ver - arrow 1 dotted"
+        },
+        "E97872C2-8BF2-4C90-9244-D98D795176A0" : {
+          "name" : "labels 2 dark\/plus"
+        },
+        "395778E9-46BB-48BA-888E-8D62A96A5A67" : {
+          "name" : "devices gray\/iphone"
+        },
+        "E5A6993B-2C6B-4FD7-BF6A-A6639D8F8716" : {
+          "name" : "numbers gray\/dark green semi"
+        },
+        "2E203186-BEDB-4B92-8F8C-AC3333B24124" : {
+          "name" : "numbers gray\/green solid"
+        },
+        "ADA5567A-EBA6-4AE0-8CE6-DA8C642734F4" : {
+          "name" : "arrows gray\/arrow 3 dotted"
+        },
+        "B401BF31-2F38-4BB2-A914-6818026B1AF8" : {
+          "name" : "arrows dark\/line 1.5"
+        },
+        "ED781741-A957-4DC9-B502-73EBF9212455" : {
+          "name" : "Small Cards\/Profile"
+        },
+        "01F3275D-E1F3-4AB3-BA16-AE34CB80207A" : {
+          "name" : "devices dark\/samsung white"
+        },
+        "86228916-CCC6-4C2D-A6F3-9BC7B965A6EF" : {
+          "name" : "simple gray\/main page"
+        },
+        "B939A0B4-9752-4C41-93C1-05AA507C667F" : {
+          "name" : "numbers gray\/green semi"
+        },
+        "5DF8418F-A16B-4948-8C8A-C4DA9D22EBF1" : {
+          "name" : "simple dark\/inner page 2"
+        },
+        "6DC9F364-2913-45CD-BE4F-188505E52F20" : {
+          "name" : "arrows dark\/tag hor - line 1.5 "
+        },
+        "185D7E02-7EF4-4385-8573-0F3F8A1B196E" : {
+          "name" : "Home Page Cards\/Home_Page_1"
+        },
+        "71994F6B-8730-4E27-8367-9CF9447B1D0A" : {
+          "name" : "labels 2 blue\/no"
+        },
+        "81C40076-82BA-42E5-8837-B64CDCAAE2AA" : {
+          "name" : "letters gray\/brown outlined"
+        },
+        "AE4C741D-18CE-4483-ADA0-F4826B48B63B" : {
+          "name" : "shapes blue\/document"
+        },
+        "5DAB63CF-841A-4ED0-982A-54E798D59E71" : {
+          "name" : "numbers blue\/orange semi"
+        },
+        "B0019961-A896-4F72-992A-FD7DAAE8EC83" : {
+          "name" : "letters blue\/purple semi"
+        },
+        "F13DA2B9-9CCB-45F3-931D-DD804195116F" : {
+          "name" : "devices gray\/samsung white"
+        },
+        "EDABEABE-6658-47FB-A924-1815E0F92166" : {
+          "name" : "letters gray\/yellow semi"
+        },
+        "63BD3407-5841-4509-8F56-50D72EDCC8BF" : {
+          "name" : "letters gray\/dark green solid"
+        },
+        "1896AEAD-2915-401D-8F3A-8CF450265DCC" : {
+          "name" : "arrows blue\/arrow 8"
+        },
+        "44D3AA55-391B-4278-B5FF-E199B418E52E" : {
+          "name" : "arrows dark\/tag ver - arrow 1.1"
+        },
+        "93A19395-5BEB-415C-A0F5-DA02F6C7B64E" : {
+          "name" : "letters gray\/gray solid"
+        },
+        "ED46778F-5F94-4CAB-97C7-283563915CE7" : {
+          "name" : "arrows gray\/arrow 8"
+        },
+        "1F115D2A-96B7-4C4A-969B-09829158E981" : {
+          "name" : "Various Cards\/Login"
+        },
+        "46640972-4EE6-48E7-8508-05022FF9D8D8" : {
+          "name" : "Various Cards\/Songs"
+        },
+        "2F47799F-EE87-4DD9-AC0B-D2CFF9B04309" : {
+          "name" : "arrows blue\/arrow 5 dotted"
+        },
+        "0C887B89-0DB7-4D95-A12D-FA30CFBBA8F4" : {
+          "name" : "letters dark\/black outlined"
+        },
+        "862FBCB9-0BCD-45F2-989C-187FB9A9F6C4" : {
+          "name" : "arrows dark\/tag hor - arrow 1 dotted"
+        },
+        "1A27D364-1FEE-4358-B159-AE4A84A44B38" : {
+          "name" : "shapes blue\/start-end"
+        },
+        "77749F0D-F9E7-4CF5-81FF-9B1909A7C87A" : {
+          "name" : "numbers gray\/brown solid"
+        },
+        "87B174BD-B881-4F05-AEDB-DE5532489251" : {
+          "name" : "Various Cards\/Table-4"
+        },
+        "735C5198-B101-456F-B3A7-0C2787F54894" : {
+          "name" : "Layout Cards\/Madium_Grid"
+        },
+        "39EF42F3-317E-4995-B0BE-B0D8F7C61814" : {
+          "name" : "Modal Cards\/Page_-_Countdown"
+        },
+        "515657A5-BFAD-4F7A-92DF-304A49BD8F4F" : {
+          "name" : "numbers gray\/dark green solid"
+        },
+        "D66E12BD-31CA-4968-A279-85608EB189B8" : {
+          "name" : "arrows blue\/arrow 1"
+        },
+        "5EBA7C61-F605-49C7-82C7-1F1F86E8BC98" : {
+          "name" : "arrows gray\/line 1.5 dotted"
+        },
+        "B378D319-0831-4E5D-8378-E1CF3E460AF6" : {
+          "name" : "labels 2 dark\/yes"
+        },
+        "4B9F153C-8F16-46AA-9AD8-924B251B931B" : {
+          "name" : "devices gray\/samsung"
+        },
+        "15C32AC9-27A9-442B-BF44-B4CF9E7C203F" : {
+          "name" : "numbers dark\/gray solid"
+        },
+        "B1A2E4FB-0B36-4656-A288-30362F9C7999" : {
+          "name" : "numbers gray\/dark green outlined"
+        },
+        "7BED62CB-5E7E-48CD-AE00-267FBDDC278E" : {
+          "name" : "notes gray\/note small DOWN"
+        },
+        "8BA9F028-0500-4526-AAEA-5DEEDC1F294A" : {
+          "name" : "arrows blue\/tag hor - arrow 1.2 "
+        },
+        "DA3521B4-6AA4-463E-A2C5-7935350033B9" : {
+          "name" : "arrows gray\/arrow 7.1 dotted"
+        },
+        "6A9DD392-E5E8-4E31-9E24-6EF5D45A7D91" : {
+          "name" : "Modal Cards\/Video_Gallery_-_Player"
+        },
+        "9C3FDE31-EE5E-4E67-B7BE-EF9D1FB6DB33" : {
+          "name" : "numbers blue\/green solid"
+        },
+        "AF18B171-CA71-41E0-8BFE-F8AA04FAFB94" : {
+          "name" : "Modal Cards\/Page_-_Form"
+        },
+        "F11629B0-15FC-463B-9AEF-1BFB6D8D9B90" : {
+          "name" : "numbers dark\/orange semi"
+        },
+        "4C1A86FC-6A41-45A7-A4C0-46E70CCE0DB1" : {
+          "name" : "shapes dark\/on-page ref dotted"
+        },
+        "D4451597-301E-442C-BFBB-B10839F356B5" : {
+          "name" : "arrows dark\/tag hor - arrow 1.3 dotted "
+        },
+        "E3B34047-B0EB-4179-AF12-BC9F2710B5CE" : {
+          "name" : "arrows dark\/arrow 7 dotted"
+        },
+        "86958208-11CE-4561-9543-A907B2C7AA00" : {
+          "name" : "Home Page Cards\/Home_Page_4"
+        },
+        "C32891E3-349D-4D41-A8EE-1567DC457710" : {
+          "name" : "Modal Cards\/Page_-_Map"
+        },
+        "2F09E8E8-5548-4598-81D8-B6175B58ECAA" : {
+          "name" : "Home Page Cards\/Home_Page_3"
+        },
+        "264F07C2-5E20-4621-90AD-6BF2625D6F40" : {
+          "name" : "numbers dark\/dark green semi"
+        },
+        "3CB5A3A9-4943-4320-9244-18B499CFA2B5" : {
+          "name" : "shapes gray\/decision"
+        },
+        "931F9A09-6F7C-4418-8BD5-62DE47B3E221" : {
+          "name" : "arrows gray\/tag hor - arrow 1 "
+        },
+        "4D896AF0-A191-43C5-905C-61EF419A1AC6" : {
+          "name" : "Various Cards\/Statistics_1"
+        },
+        "22CAD578-1C73-4425-82A4-183D29720E5C" : {
+          "name" : "arrows gray\/arrow 1.1"
+        },
+        "0032B69E-25D8-48FF-8FB3-D75DC9591006" : {
+          "name" : "devices blue\/iphone x white"
+        },
+        "C09170EF-2BC3-4FDB-BDFE-0DA5068A79DF" : {
+          "name" : "Various Cards\/Statistics_2"
+        },
+        "7A633C05-D017-4509-BDF9-A0E8CB1FBBBA" : {
+          "name" : "arrows blue\/arrow 4"
+        },
+        "AE0054D0-64E4-42C0-B47B-BA02D5EA0998" : {
+          "name" : "arrows blue\/arrow 8.3"
+        },
+        "0113C2D6-2B54-40CC-B5F2-341D588A6281" : {
+          "name" : "Modal Cards\/Gallery_-_Slideshow"
+        },
+        "957B1C50-6609-4122-9D62-D038D2695CB4" : {
+          "name" : "labels 2 gray\/tick"
+        },
+        "CA19CD08-8D52-44FB-AA9D-AE51510FA08C" : {
+          "name" : "Small Cards\/Settings"
+        },
+        "E4BD32B3-1C6D-4006-89A3-A20787E63F09" : {
+          "name" : "arrows gray\/tag ver - line 1.5 dotted"
+        },
+        "D177DC72-E534-416F-8BC0-39B40853DA53" : {
+          "name" : "Various Cards\/Text_Article_2_columns_title"
+        },
+        "216C80D3-022A-42C7-9338-8F7BDA986216" : {
+          "name" : "arrows gray\/arrow 7 dotted"
+        },
+        "E53F7416-B2BA-41A6-BAF4-E04B29FD6C4E" : {
+          "name" : "arrows dark\/arrow 7.1"
+        },
+        "0FE48140-F7F5-448B-96E0-6C17680A499F" : {
+          "name" : "simple dark\/inner page"
+        },
+        "EF84510B-6B96-4DCF-B3DA-5311C8D71DCD" : {
+          "name" : "letters blue\/blue solid"
+        },
+        "D6AC1A0D-755B-4294-BE10-7E7A4C571F4C" : {
+          "name" : "Home Page Cards\/Dashboard_L"
+        },
+        "AB8AE7DA-2DC5-4BB1-B42C-166EFA8192A7" : {
+          "name" : "letters blue\/green solid"
+        },
+        "5B034911-E04E-4472-9FDD-D509C6A86E9F" : {
+          "name" : "arrows gray\/arrow 2"
+        },
+        "A6915D84-D206-41BF-8F04-B164AE03FB4A" : {
+          "name" : "arrows blue\/arrow 3.1"
+        },
+        "02C4173D-CE46-4B99-AB07-6C81B63ED599" : {
+          "name" : "numbers dark\/blue semi"
+        },
+        "C8373DB2-9F54-4525-99B6-BDB3D4299E10" : {
+          "name" : "arrows gray\/arrow 4.1 dotted "
+        },
+        "2406B2C6-E08D-4456-92E6-FD9776C60E48" : {
+          "name" : "labels 2 blue\/minus"
+        },
+        "3A4AFB4E-D29A-432E-B693-3C430CD958B7" : {
+          "name" : "arrows dark\/tag ver - line 1.5 dotted"
+        },
+        "72A47767-2088-4303-AB2F-3FD267D48C64" : {
+          "name" : "labels blue\/label 3 pill"
+        },
+        "21A92BE1-2032-4924-845A-7BADB2769F84" : {
+          "name" : "numbers dark\/yellow semi"
+        },
+        "9721A597-2A82-493C-AA3D-4E4C1BC0F7DC" : {
+          "name" : "numbers gray\/blue outlined"
+        },
+        "BA8BE2B3-834C-4D97-BEEE-8956D9276631" : {
+          "name" : "shapes blue\/off-page ref dotted"
+        },
+        "37DA6A9A-0C0B-41F1-B7AE-1365E3C62E42" : {
+          "name" : "devices dark\/watch"
+        },
+        "D81204AD-63C4-41CA-B6E4-4C22729BC2CF" : {
+          "name" : "arrows gray\/tag hor - arrow 1.3 dotted "
+        },
+        "ABA9A519-2974-4256-81F2-85553E84C5F3" : {
+          "name" : "Various Cards\/Video_Carousel"
+        },
+        "0ECD2EAD-B308-42B9-A4FD-565B009FA312" : {
+          "name" : "notes dark\/note RIGHT"
+        },
+        "A4D12CA9-7405-451A-B10A-C7E71B986F1F" : {
+          "name" : "Various Cards\/Settings_2"
+        },
+        "6B8E9790-AAC3-4935-B426-F2995E9808C1" : {
+          "name" : "Small Cards\/Delete"
+        },
+        "FB625CFF-7B68-4A4F-BC8A-07AAD574068A" : {
+          "name" : "Small Cards\/Download"
+        },
+        "B96B51DE-DFC5-47C5-B6E7-F8330A2F00B9" : {
+          "name" : "Layout Cards\/List"
+        },
+        "F9BF65D0-AE91-4FA3-B30B-D58D954109CE" : {
+          "name" : "arrows gray\/tag hor - arrow 1.2 dotted "
+        },
+        "D95A6456-6C9D-413A-BADB-310F5981F9EB" : {
+          "name" : "notes gray\/note small UP"
+        },
+        "D18A8A62-E59E-4BA8-95FA-F6864514EFAC" : {
+          "name" : "shapes dark\/multi process"
+        },
+        "CF33AAC0-7A2F-473C-AE34-A35BFF2D0D9D" : {
+          "name" : "shapes gray\/off-page ref dotted"
+        },
+        "0F4EEE37-0744-4505-B5B9-FFAC664747E3" : {
+          "name" : "arrows dark\/arrow 1.3"
+        },
+        "D5A38CCE-ACF0-458E-87BB-2BB06EA1EFB8" : {
+          "name" : "letters gray\/orange outlined"
+        },
+        "DE6DE7AC-4C53-4C17-AB1A-D7CD9599D3B2" : {
+          "name" : "Small Cards\/External_Link"
+        },
+        "197E6367-F0EE-4B25-A29D-F68F048FD3DF" : {
+          "name" : "arrows blue\/arrow 7"
+        },
+        "71359C95-A868-497E-979E-2174FAF155ED" : {
+          "name" : "notes blue\/note DOWN"
+        },
+        "5B36F98B-3553-4CF8-BA6F-B9A135F132CC" : {
+          "name" : "arrows blue\/arrow 4 dotted"
+        },
+        "EF4805D9-45A6-4810-A472-A33E78FF5AB5" : {
+          "name" : "Layout Cards\/Left_Sidebar"
+        },
+        "64C76942-C51A-45A7-8CE3-A2741E0F092C" : {
+          "name" : "Home Page Cards\/Home_Page_5"
+        },
+        "EE2B6C5B-523F-4BC1-9702-5BC7583A4DBC" : {
+          "name" : "arrows blue\/tag ver - arrow 1.3"
+        },
+        "4312D9FB-4623-495F-92F3-AA87F1A19626" : {
+          "name" : "letters gray\/green semi"
+        },
+        "EF5FEC37-DCB9-4775-B7E8-F5192D663FE8" : {
+          "name" : "arrows blue\/tag hor - arrow 1.3 dotted "
+        },
+        "F8BA1FCA-9C8E-45ED-90E1-8649F9649FF1" : {
+          "name" : "labels dark\/label 3 square"
+        },
+        "C4FAFDCB-DAAE-4CA5-810B-FB3C5A900130" : {
+          "name" : "arrows gray\/arrow 6.1 dotted"
+        },
+        "B0CBC37C-96E0-4578-9E66-ACDFA3803C88" : {
+          "name" : "letters blue\/gray semi"
+        },
+        "53230458-0171-46CC-8BB3-A65E8F403301" : {
+          "name" : "letters dark\/blue semi"
+        },
+        "DDAE8A58-F001-4BFD-A9AC-CD6DB721B464" : {
+          "name" : "shapes gray\/process dotted"
+        },
+        "CA017A93-82BB-449B-88C6-4F5275AAE498" : {
+          "name" : "shapes dark\/process"
+        },
+        "D5D9C59C-67B1-4C12-9DE1-15482CC17493" : {
+          "name" : "shapes dark\/off-page ref dotted"
+        },
+        "CEA00A76-3B4F-4275-97C9-018F05BDEFD0" : {
+          "name" : "Modal Cards\/Page_-_Newsletter"
+        },
+        "1D9E642A-01BC-489C-AFA6-C3F2388BF381" : {
+          "name" : "labels gray\/label 1 square"
+        },
+        "AAC31886-960A-4098-B908-FED911A6D11F" : {
+          "name" : "Small Cards\/Table"
+        },
+        "6717904E-4BA8-42F8-B712-F2A1D9302415" : {
+          "name" : "numbers blue\/brown semi"
+        },
+        "65D0AA4F-F64C-4898-B370-37F4B99F0DFB" : {
+          "name" : "Modal Cards\/Page_-_Success"
+        },
+        "B16EA505-834E-40F5-A443-8697F31B9B13" : {
+          "name" : "Various Cards\/Video_Carousel_2"
+        },
+        "271C2540-3303-4578-8FC6-28F38A83D20D" : {
+          "name" : "devices dark\/watch white"
+        },
+        "70775528-75F1-45FC-AADE-B6D1AECF0A03" : {
+          "name" : "arrows dark\/tag hor - arrow 1.2 "
+        },
+        "D4C2EFC6-DFE6-4E4F-BCF8-FCCEC1D871C7" : {
+          "name" : "arrows blue\/arrow 1 dotted"
+        },
+        "56A9D579-4B36-4609-AC6B-4709D41F9AA7" : {
+          "name" : "arrows dark\/tag hor - arrow 1.1 "
+        },
+        "8529349C-9B00-49A0-88C4-B5E70A331735" : {
+          "name" : "labels 2 gray\/success"
+        },
+        "58332E86-E221-4E54-B5D3-E493C585685C" : {
+          "name" : "letters gray\/brown semi"
+        },
+        "51F39D6D-7D13-4E53-8121-C2E3599A4FB6" : {
+          "name" : "labels dark\/label 3 pill"
+        },
+        "BBEA47CB-48B2-42BD-B7BB-4312D5CD3B1A" : {
+          "name" : "E-commerce Cards\/Payment_Checkout"
+        },
+        "9B5CB6E9-6D35-4FB3-8E3E-AED43F6E03F4" : {
+          "name" : "devices blue\/iphone white"
+        },
+        "3DEF32B6-5315-4428-BCEC-4D8D24C93FF0" : {
+          "name" : "Various Cards\/Video_Single"
+        },
+        "4E9D0823-8BFE-474A-941A-1E0D0481D2AC" : {
+          "name" : "Modal Cards\/Page_-_Share"
+        },
+        "A7E5082F-1F86-47B9-B45B-BC12E0B69E87" : {
+          "name" : "Layout Cards\/Masonry"
+        },
+        "1287B183-469E-4277-85BE-0E628C0510A9" : {
+          "name" : "Various Cards\/Search_2"
+        },
+        "8067A3FB-AB2C-4F4B-B369-E7665C38A930" : {
+          "name" : "Small Cards\/Map"
+        },
+        "9FC0D6DF-884C-44EE-AEF6-302655AC22EE" : {
+          "name" : "Various Cards\/Photo_Single"
+        },
+        "513E468F-CF49-4DD5-840C-CBF3AEFBACE7" : {
+          "name" : "Small Cards\/Settings_2"
+        },
+        "828B063E-A530-4272-A46B-06634DC276B5" : {
+          "name" : "arrows dark\/arrow 2"
+        },
+        "D5F79A0F-99E2-4715-A666-104C18FDF8A8" : {
+          "name" : "arrows gray\/tag ver - arrow 1.1 dotted "
+        },
+        "1BB9C1A7-0617-4909-AC39-4D0AF08653CC" : {
+          "name" : "Various Cards\/Article_Single_1_-_Sidebar"
+        },
+        "DE83B9CD-3BB3-4956-983C-19FB4643FBAE" : {
+          "name" : "arrows dark\/arrow 6 dotted"
+        },
+        "C0104AE9-7D29-4FA3-A86E-FC9CE392DAB1" : {
+          "name" : "letters dark\/yellow outlined"
+        },
+        "52C831BD-5653-4BF1-A0B0-7331964AA8F8" : {
+          "name" : "Small Cards\/Progress_Bar"
+        },
+        "2998CBBA-9D90-4567-B2C7-F549CE85B5BC" : {
+          "name" : "arrows dark\/tag ver - line 1.5"
+        },
+        "E1A601DC-A832-4EB8-83DC-DDEF07E4756D" : {
+          "name" : "arrows blue\/arrow 6"
+        },
+        "44ED8062-8E67-4156-A304-CB01C00B073F" : {
+          "name" : "letters gray\/blue solid"
+        },
+        "600DF2BF-1E65-45C7-9E74-E6313484FB28" : {
+          "name" : "Various Cards\/Folders_List"
+        },
+        "DD2CAAC4-592A-4880-BD8D-328B44CA405B" : {
+          "name" : "arrows dark\/arrow 2.1 dotted"
+        },
+        "215B51D3-9F29-4985-868B-315A4A0487C6" : {
+          "name" : "Various Cards\/Form"
+        },
+        "3BC80308-297C-458F-A10B-85207270F5AD" : {
+          "name" : "Small Cards\/_404"
+        },
+        "492259C8-6623-490D-91C3-2627EA40C36E" : {
+          "name" : "letters gray\/purple solid"
+        },
+        "863129C3-7685-4403-8F32-6C88AB73D79F" : {
+          "name" : "Home Page Cards\/Home_Page_7"
+        },
+        "7EC1FC88-F545-49F3-BAA4-CC094F184A1C" : {
+          "name" : "E-commerce Cards\/Products"
+        },
+        "C7CD637A-BE49-472D-B229-5169E6E995BB" : {
+          "name" : "notes dark\/note small UP"
+        },
+        "0425D2DA-29D3-4AEB-90DE-EBE79BFD1AAC" : {
+          "name" : "numbers dark\/yellow solid"
+        },
+        "D0EB6098-611F-4E99-B23E-6B1926A2A8DE" : {
+          "name" : "E-commerce Cards\/Search"
+        },
+        "C729B684-8791-44CE-A2E3-E74D6211C4E1" : {
+          "name" : "shapes gray\/data"
+        },
+        "46E636A4-1449-485C-B39B-AC2E53223B6B" : {
+          "name" : "arrows blue\/arrow 2 dotted"
+        },
+        "EC6BD4A2-FC67-4DE4-8A80-85C4EA3A8D55" : {
+          "name" : "numbers gray\/yellow semi"
+        },
+        "11E2C286-F94E-4E35-B229-E189A6D57E23" : {
+          "name" : "notes dark\/note LEFT"
+        },
+        "3D8395B5-8DA2-41BD-BB68-F51B792A5FFB" : {
+          "name" : "Various Cards\/CV_Profile"
+        },
+        "26E4ECE2-ADE2-4DE4-A4EF-CE843D354FF2" : {
+          "name" : "numbers gray\/gray outlined"
+        },
+        "2D4AE733-4B64-417D-8DCE-BF5C79E95216" : {
+          "name" : "Various Cards\/Folders"
+        },
+        "4C1D94C5-629C-406E-A773-DB6937BB6355" : {
+          "name" : "letters dark\/yellow solid"
+        },
+        "DE6CB0CD-B0D1-4E0D-9A8F-D4254E43AD9F" : {
+          "name" : "arrows blue\/arrow 8.1"
+        },
+        "669E6FC2-4923-4CEA-B452-0B0390E72136" : {
+          "name" : "arrows dark\/arrow 1.3 dotted"
+        },
+        "6746459F-29F4-486B-896A-8EC91F3FF1E9" : {
+          "name" : "shapes dark\/data dotted"
+        },
+        "D37861F2-0242-418F-AD0A-55E29FA5E60E" : {
+          "name" : "Various Cards\/News"
+        },
+        "40E490DE-BB49-4769-BBAD-FE8C90FA2057" : {
+          "name" : "devices dark\/ipad white"
+        },
+        "AAA3F550-274C-499E-A6FC-E0E2F42C0A46" : {
+          "name" : "arrows blue\/arrow 5.1 dotted"
+        },
+        "C4C84829-1E9B-4606-9489-EB1A17A65E46" : {
+          "name" : "Various Cards\/Bio_1"
+        },
+        "26F5D1F8-C641-4682-9865-56FB1F220711" : {
+          "name" : "labels dark\/label 1 square"
+        },
+        "5D38975A-8DA6-4D51-930F-30A161E9BAAC" : {
+          "name" : "devices dark\/ipad"
+        },
+        "4D31C463-7074-4EA0-B397-35616037E0F6" : {
+          "name" : "shapes dark\/start-end dotted"
+        },
+        "8D3BB7C6-2AB9-474F-B0A8-739304E2D6F1" : {
+          "name" : "numbers dark\/gray outlined"
+        },
+        "DBADA9CC-B099-4D3D-B6B0-379F23695A92" : {
+          "name" : "arrows dark\/tag ver - arrow 1.4"
+        },
+        "F54FE5D9-7483-4E84-9062-1F574F9F65E1" : {
+          "name" : "arrows dark\/arrow 8.2 dotted"
+        },
+        "7E780991-0932-4661-9340-B068D62429D3" : {
+          "name" : "arrows blue\/tag hor - arrow 1.1 "
+        },
+        "2E6CEF16-E4EF-4418-BAF6-AEF548E56BC4" : {
+          "name" : "arrows dark\/arrow 8 dotted"
+        },
+        "B466F59B-D88D-4137-8CD1-85D6836C2EBD" : {
+          "name" : "shapes blue\/data"
+        },
+        "ED463077-4834-411C-91D2-54674EA26210" : {
+          "name" : "shapes gray\/document"
+        },
+        "317C4480-70BB-4F0A-AA91-1E6BB554D293" : {
+          "name" : "arrows gray\/arrow 8.3 dotted"
+        },
+        "FD7B7240-07BB-440C-BCB7-C0DB397092CB" : {
+          "name" : "Various Cards\/Comment-2"
+        },
+        "3A2AC4AA-8B3F-44E1-9530-872F4C0F5001" : {
+          "name" : "Small Cards\/Steps"
+        },
+        "A79343DE-CC09-42CA-8642-91822964D405" : {
+          "name" : "letters dark\/dark green semi"
+        },
+        "1F01A12C-D2B6-4FB2-9498-F99E7ABAA428" : {
+          "name" : "Small Cards\/Cloud"
+        },
+        "E383A7B8-6472-4AA3-925F-C8F693299E05" : {
+          "name" : "shapes gray\/document dotted"
+        },
+        "2FD20EE4-F563-4FA4-AD2D-E0CDCD7A7557" : {
+          "name" : "arrows dark\/arrow 1 dotted"
+        },
+        "3004CDAE-9054-4698-B6D6-DBADCCFA7103" : {
+          "name" : "Layout Cards\/Landing_Page_6"
+        },
+        "D9380F61-7B06-4E39-B1D8-B0EBBA7AF263" : {
+          "name" : "notes dark\/note small DOWN"
+        },
+        "37A975C2-2DD9-4777-A5FE-FFD7830F7892" : {
+          "name" : "numbers blue\/brown outlined"
+        },
+        "BB9FB65F-8A41-4754-BCB0-D51D8E613216" : {
+          "name" : "shapes blue\/document dotted"
+        },
+        "98CA803B-6959-4EED-B8ED-7461359AB9E7" : {
+          "name" : "numbers blue\/dark green semi"
+        },
+        "6C254F9B-99B2-4C39-8BA8-35E61B9E4626" : {
+          "name" : "arrows dark\/tag hor - arrow 1.4 "
+        },
+        "6C577D64-C532-4A8B-BB8B-8ECF2618C0A1" : {
+          "name" : "arrows gray\/arrow 8.2 dotted"
+        },
+        "248D717C-E5F0-4AE4-B30F-A72952767E3A" : {
+          "name" : "arrows blue\/arrow 8.2 dotted"
+        },
+        "F4D78E7A-555B-4AC8-94A7-18AAC2ABFF35" : {
+          "name" : "notes blue\/note small RIGHT"
+        },
+        "0949896B-8F65-4AC2-AF55-81B5D05B3243" : {
+          "name" : "arrows blue\/arrow 3.1 dotted"
+        },
+        "7B3ED3EE-F141-4D01-89E3-7BA152BC4C0E" : {
+          "name" : "arrows blue\/arrow 3"
+        },
+        "1B11CD09-2A07-4F0A-857D-EB0D0D2BB12C" : {
+          "name" : "letters gray\/orange semi"
+        },
+        "3185A51E-DABC-4B5C-944B-CF5EB2159125" : {
+          "name" : "devices blue\/samsung white"
+        },
+        "1B54D685-4876-491A-85C3-894626B686EF" : {
+          "name" : "arrows blue\/arrow 3 dotted"
+        },
+        "21EC5DB3-CF6E-4793-83A1-9F9CA8E5BC17" : {
+          "name" : "arrows gray\/tag ver - arrow 1.2 dotted"
+        },
+        "D2C8DD68-0248-4E5C-AA5B-D7D482FFFE65" : {
+          "name" : "Various Cards\/Text_Article_1_column"
+        },
+        "EF468205-D3A6-42AD-8610-CB25D16BC849" : {
+          "name" : "numbers blue\/yellow outlined"
+        },
+        "6C137FA6-B965-4F51-8197-A11AD1D67510" : {
+          "name" : "shapes dark\/delay dotted"
+        },
+        "5AACA4F3-A70C-4420-A5FE-FAD203025EC9" : {
+          "name" : "shapes gray\/off-page ref"
+        },
+        "95FE3731-FB7D-4421-A981-1C459DD5046A" : {
+          "name" : "arrows dark\/tag hor - arrow 1.2 dotted "
+        },
+        "9E18ED6C-38D9-437D-A3EC-F67AE5219807" : {
+          "name" : "Various Cards\/Chat"
+        },
+        "8B317DFD-B2F0-42CE-AB15-8DE6E2B2F80C" : {
+          "name" : "arrows dark\/arrow 8"
+        },
+        "AD19A122-6D09-4753-A41A-CFC56F7D5CDD" : {
+          "name" : "arrows blue\/arrow 6.1 dotted"
+        },
+        "AD941E8D-D56C-4E3E-B6AB-6298857D09E5" : {
+          "name" : "arrows blue\/arrow 1.1 dotted"
+        },
+        "7CAE6C60-CFC4-49A7-A70D-A189B81EE1B7" : {
+          "name" : "arrows dark\/arrow 3.1"
+        },
+        "3E4A1523-BAEA-470F-8C3B-4BA116CE378E" : {
+          "name" : "Various Cards\/Blog"
+        },
+        "74C06CAA-A5BC-45C7-A091-2CE2CF4B8421" : {
+          "name" : "arrows dark\/arrow 4.1 dotted "
+        },
+        "8258A72E-4F51-4A7A-A110-40BE2FF2533A" : {
+          "name" : "labels 2 blue\/plus"
+        },
+        "72CD2255-7712-4250-9EF2-1E66343AF2DF" : {
+          "name" : "letters dark\/dark green solid"
+        },
+        "19262DC2-F3FA-4171-BAF5-5DD7ACC60FC1" : {
+          "name" : "arrows blue\/tag ver - arrow 1.4 dotted"
+        },
+        "AF87F036-6DAE-40EF-A3BA-15CBEBC4B0DB" : {
+          "name" : "Small Cards\/Progress"
+        },
+        "1BB731B3-4D25-40B1-AD30-924A67DDA741" : {
+          "name" : "letters dark\/purple outlined"
+        },
+        "47589C2B-B2FF-4A54-8FDF-7E17BDC9ADDD" : {
+          "name" : "arrows dark\/tag hor - arrow 1.4 dotted "
+        },
+        "88E55440-163A-4C0E-8120-4E81AD8FDD9A" : {
+          "name" : "labels 2 gray\/no"
+        },
+        "37686F68-D7E2-4103-BC7B-7E4A123E55C5" : {
+          "name" : "letters gray\/purple semi"
+        },
+        "45A53B81-3100-45DB-8848-69396C17B820" : {
+          "name" : "numbers blue\/orange outlined"
+        },
+        "F5F7E41B-AAFB-4B86-A79C-E33CCEB7E423" : {
+          "name" : "arrows blue\/tag ver - arrow 1.2 dotted"
+        },
+        "4335C035-C67E-41ED-AF27-43DDEA21692E" : {
+          "name" : "shapes gray\/preparation"
+        },
+        "6B9060B5-9F5C-4A9A-B385-5D3B1AB15A26" : {
+          "name" : "letters gray\/blue outlined"
+        },
+        "4BBB5CBA-50FE-4C2F-B0F4-62DAFC41E156" : {
+          "name" : "arrows dark\/arrow 8.1"
+        },
+        "045F2E4B-DBD1-44B3-B63E-7009B5E786EF" : {
+          "name" : "numbers gray\/orange semi"
+        },
+        "C9ABD773-35EC-4585-8F32-6B2F41D43172" : {
+          "name" : "shapes blue\/process"
+        },
+        "D625D4DF-E3F7-4B27-B0CE-9EE2DC48D177" : {
+          "name" : "labels gray\/label 3 square"
+        },
+        "79A8CFF0-5C1E-4321-BF0C-4DD904EFF2C4" : {
+          "name" : "numbers blue\/yellow semi"
+        },
+        "15BFEF91-53DD-4D14-8475-305CCAF74C2B" : {
+          "name" : "Various Cards\/Gallery_Carousel"
+        },
+        "154122E9-D355-42B1-A7DF-B81639A74932" : {
+          "name" : "notes blue\/note small DOWN"
+        },
+        "4B041671-AFFE-4019-92C3-6DA3490079AA" : {
+          "name" : "Various Cards\/Forgotten_password"
+        },
+        "2254E891-D540-4741-88F1-9E362559FB56" : {
+          "name" : "labels 2 gray\/cross"
+        },
+        "6EAC121C-D572-4E3F-8716-EC363BBA479B" : {
+          "name" : "arrows gray\/arrow 6"
+        },
+        "31B0AA42-E7AE-480F-8147-3A86CE3DDA9C" : {
+          "name" : "Layout Cards\/_2_Columns"
+        },
+        "66B9ACBA-2DE5-47D9-99D1-DB020F85200D" : {
+          "name" : "numbers dark\/purple outlined"
+        },
+        "97B78A1D-E401-4526-81A9-3603F047B3B9" : {
+          "name" : "devices dark\/iphone x "
+        },
+        "E1F0100F-FFA7-499E-B1A4-796D47C03E92" : {
+          "name" : "shapes blue\/manual operation"
+        },
+        "08B1076B-68F3-4D4C-A5C3-506D270B1733" : {
+          "name" : "Various Cards\/Featured_News"
+        },
+        "A5ADBC12-3F9D-4D81-90A1-3C3D30972382" : {
+          "name" : "arrows blue\/arrow 4.1"
+        },
+        "0C855CEF-7A5B-4883-A66C-51A560E12C07" : {
+          "name" : "Modal Cards\/Page_-_Settings"
+        },
+        "893EA89B-0A2C-4C37-A9AE-3BB06B2451B2" : {
+          "name" : "numbers gray\/brown semi"
+        },
+        "19209121-D6C2-4464-835C-F50F503C9E5E" : {
+          "name" : "Layout Cards\/Landing_Page_4"
+        },
+        "A2E97295-EFFB-40D5-9289-120A9D28FB4A" : {
+          "name" : "arrows gray\/tag ver - arrow 1"
+        },
+        "4E2D5889-1689-4FFE-AD63-9E05629D063D" : {
+          "name" : "labels blue\/label 3 square"
+        },
+        "4D61A78F-C253-4D94-97A1-19CE71873FF0" : {
+          "name" : "labels 2 blue\/error"
+        },
+        "0575AE38-75D3-45F0-9746-E9E04B20759D" : {
+          "name" : "Small Cards\/Video_Pop_Up"
+        },
+        "3D8A3816-F68A-4930-86E5-88D571D456A8" : {
+          "name" : "Various Cards\/Board"
+        },
+        "FC03C1D6-5671-464C-BB43-57FF7DFDCD9A" : {
+          "name" : "shapes gray\/decision dotted"
+        },
+        "B77E7766-FBAC-4C4C-9ECA-241D9B343F1A" : {
+          "name" : "Various Cards\/Dashboard"
+        },
+        "24E666B1-56D4-4B2E-9B03-CDAD714B6EB1" : {
+          "name" : "arrows blue\/tag hor - arrow 1.3 "
+        },
+        "4C5C2146-2E16-4D0C-9656-B4F34DCC56ED" : {
+          "name" : "devices gray\/iphone x white"
+        },
+        "6E439131-5B63-44DA-9DCC-C53679D06FA0" : {
+          "name" : "Various Cards\/Contact_"
+        },
+        "43918BA2-6777-400A-98F1-98E0DA278A46" : {
+          "name" : "arrows dark\/tag ver - arrow 1 dotted"
+        },
+        "88FBB290-11BA-4953-954D-5B39736399D3" : {
+          "name" : "numbers gray\/orange solid"
+        },
+        "5C2F6A89-686D-4498-A3FA-C83DDBB17227" : {
+          "name" : "numbers dark\/yellow outlined"
+        },
+        "280391D2-CB8B-43F6-B22B-7CBEB550E5A0" : {
+          "name" : "Modal Cards\/Page_-_Table"
+        },
+        "EDE1CC0D-5E9B-4ACB-A4E3-9FD6167A1C11" : {
+          "name" : "arrows dark\/arrow 5 dotted"
+        },
+        "09ACA670-EE4B-434C-BC20-57776805EFBD" : {
+          "name" : "Layout Cards\/Right_Sidebar"
+        },
+        "BBFACC52-5B9C-4AAA-8AE9-5A99B0A2AB2B" : {
+          "name" : "Small Cards\/Upload"
+        },
+        "BDCDE1BE-B590-4ABD-8105-1016B3FAED05" : {
+          "name" : "letters blue\/green semi"
+        },
+        "F5169781-CCF7-486C-9016-BCD61443831F" : {
+          "name" : "arrows dark\/arrow 1.1"
+        },
+        "9EFDE06D-DA13-4CDA-8B7F-7032C0CCBE9E" : {
+          "name" : "shapes dark\/multi process dotted"
+        },
+        "C4E5BEE6-4A71-4698-8EE5-D3874DE852A7" : {
+          "name" : "devices gray\/watch"
+        },
+        "E9F26E40-CD7F-4B80-B8CD-C1F4C918E47B" : {
+          "name" : "Modal Cards\/Video_Gallery_-_Single"
+        },
+        "2098276C-7577-4599-96D4-B825E67C4422" : {
+          "name" : "arrows blue\/tag hor - line 1.5 "
+        },
+        "471583BC-15C3-49F8-9706-D4B9680C152D" : {
+          "name" : "arrows dark\/line 1.5 dotted"
+        },
+        "7E55C1FF-20B9-4DA0-8672-7CED341058B2" : {
+          "name" : "devices gray\/ipad"
+        },
+        "E4471D02-A3BB-49BE-AB5C-3D0EF5D25C4F" : {
+          "name" : "arrows gray\/arrow 3.1 dotted"
+        },
+        "EB8B9383-BC1D-4F8E-A985-7BDA45DBB7C0" : {
+          "name" : "letters blue\/gray solid"
+        },
+        "63942D6C-335A-49CA-838E-E2C6D0DC47C2" : {
+          "name" : "numbers blue\/gray outlined"
+        },
+        "144B726C-F909-4256-B1BB-EAEECE649AF5" : {
+          "name" : "numbers gray\/orange outlined"
+        },
+        "FA3D9A4E-7BF1-49B4-83BA-05BE214ED2C1" : {
+          "name" : "Various Cards\/Error_404"
+        },
+        "3BFD98F9-E202-4B66-9677-0B592320E902" : {
+          "name" : "letters gray\/green outlined"
+        },
+        "CE5E805C-1543-44CA-A0EC-265ED94B5C8D" : {
+          "name" : "letters dark\/gray solid"
+        },
+        "C35DFCEA-4DD2-4281-B7C3-C7D9FB61F05C" : {
+          "name" : "arrows blue\/tag ver - line 1.5 dotted"
+        },
+        "0C222551-F01A-4AE8-B5F6-1BC16EF860E2" : {
+          "name" : "Various Cards\/Gallery_4"
+        },
+        "A400A4F8-EF0B-4874-983A-AC2E62494548" : {
+          "name" : "arrows blue\/arrow 8.2"
+        },
+        "4272DEB3-DC56-4658-B8B8-BDA94DCBE342" : {
+          "name" : "labels blue\/label 1 square"
+        },
+        "3E2AAD5A-89F3-4AEC-82FA-B6036D434951" : {
+          "name" : "Layout Cards\/Small_Grid"
+        },
+        "B29D6CDF-02AE-4F58-947E-34A367C69EDC" : {
+          "name" : "shapes dark\/decision dotted"
+        },
+        "1E9AB40C-9FA3-4091-BE73-045CB2117AD4" : {
+          "name" : "letters dark\/gray semi"
+        },
+        "E19BB41A-329D-4BC7-B41D-B7632C441ADE" : {
+          "name" : "numbers blue\/blue solid"
+        },
+        "7DC2E530-BEC1-4E3E-9517-288BD3B08427" : {
+          "name" : "devices dark\/samsung"
+        },
+        "78A28807-6DEE-4625-A80B-6563B4D35650" : {
+          "name" : "notes gray\/note RIGHT"
+        },
+        "80E4882E-F870-45F1-89C3-82B568692F1A" : {
+          "name" : "Various Cards\/Share"
+        },
+        "3A7BC133-9E8D-4B2F-8E1C-31409DB26CC0" : {
+          "name" : "shapes gray\/start-end dotted"
+        },
+        "6DE887D1-3BE8-4037-ADEA-CBAF3E29E0A0" : {
+          "name" : "letters dark\/yellow semi"
+        },
+        "F8297BF1-7229-4967-8A0A-C3A7CD2FE6EC" : {
+          "name" : "Various Cards\/Settings"
+        },
+        "63438AAF-5D9B-4DE4-8DDC-F2E5BD338EBC" : {
+          "name" : "shapes blue\/delay dotted"
+        },
+        "B40F1D75-EB55-4D1E-BCEB-A7F027249B06" : {
+          "name" : "numbers dark\/dark green solid"
+        },
+        "084381E3-2395-44FF-85F4-5942C392CE4E" : {
+          "name" : "arrows gray\/arrow 2.1 dotted"
+        },
+        "32C263AA-78F1-489D-8AED-A77D20C95BAF" : {
+          "name" : "Small Cards\/Newsletter"
+        },
+        "19930F44-3C19-4534-9C53-E61E7432DEAB" : {
+          "name" : "numbers gray\/purple solid"
+        },
+        "0214AD3D-AFEA-4046-AE4F-D5B3DFD05209" : {
+          "name" : "Various Cards\/FAQ_Help_1"
+        },
+        "8B66649E-12BA-4448-B2B7-E1F54FA4E3BD" : {
+          "name" : "Various Cards\/Bio_2"
+        },
+        "838EB3A1-6C6E-4769-8514-FC1C9175E9F6" : {
+          "name" : "numbers dark\/black semi"
+        },
+        "20705D61-AFC3-4BE3-AFE1-7A71869BAC0A" : {
+          "name" : "arrows blue\/tag ver - arrow 1.1"
+        },
+        "A553C206-7E93-4113-A33D-B62022C2FDCF" : {
+          "name" : "E-commerce Cards\/Product_Single"
+        },
+        "61CB20D3-F1B3-489A-B536-D41EAB2FE8C0" : {
+          "name" : "arrows dark\/tag ver - arrow 1.4 dotted"
+        },
+        "C209C574-4AF1-4DEC-94C0-B527494906D3" : {
+          "name" : "devices blue\/iphone"
+        },
+        "E123406A-6C3C-46E3-ADE3-DBF218037A1A" : {
+          "name" : "arrows gray\/tag ver - arrow 1.3 dotted"
+        },
+        "E6D2C399-398A-4E54-8308-E383F2F9442E" : {
+          "name" : "arrows dark\/arrow 8.1 dotted"
+        },
+        "69292DEA-70EC-4AEA-B7B4-2D907DD30117" : {
+          "name" : "Various Cards\/Video_Gallery_4"
+        },
+        "72ED16A2-BEAC-4F1B-9531-40196AB2FDCF" : {
+          "name" : "E-commerce Cards\/Product_Single_-_Added"
+        },
+        "18A9A1B2-2525-4AAB-87A9-C49823EDE028" : {
+          "name" : "arrows blue\/arrow 2"
+        },
+        "6F64B3EC-08D8-414E-9E5B-8B5FE2DA9405" : {
+          "name" : "Various Cards\/Testimonials_2"
+        },
+        "F69AAAF5-9B5F-419C-87F3-65FC7EC8CB90" : {
+          "name" : "arrows dark\/tag hor - arrow 1.3 "
+        },
+        "7B9383A6-5CDA-4039-A4DF-67CA5B4BEAFD" : {
+          "name" : "shapes blue\/decision"
+        },
+        "4930544E-4C46-466C-9A01-8658C056A186" : {
+          "name" : "Various Cards\/Video_Gallery_6"
+        },
+        "002F3A04-9359-4A87-81CA-37711762E6A5" : {
+          "name" : "Home Page Cards\/Home_Page_9"
+        },
+        "784ACC73-B15B-485B-9E86-CC4FF18B715F" : {
+          "name" : "Various Cards\/Text_Article_2_columns"
+        },
+        "F90424C7-E506-4F5A-938E-BC25E7FE1338" : {
+          "name" : "letters dark\/orange outlined"
+        },
+        "F5C3B51A-62AB-4D7C-9350-F70DA84BA752" : {
+          "name" : "shapes dark\/decision"
+        },
+        "FFFAB19C-BA66-4F3C-BAA5-A0BBDA4EE62B" : {
+          "name" : "labels 2 gray\/minus"
+        },
+        "5E424FB7-8FFA-41B2-AA0E-EF94E0DC57CC" : {
+          "name" : "arrows blue\/tag hor - arrow 1.4 "
+        },
+        "D39B1420-EE5B-49DA-BB0C-43E715111A40" : {
+          "name" : "arrows dark\/tag ver - arrow 1.3"
+        },
+        "DE406A2A-D239-447B-82FA-B2EA4B4DD6D0" : {
+          "name" : "Various Cards\/Search_RSS_Feed"
+        },
+        "5AA48DA5-8D7A-4306-921D-310367D8810E" : {
+          "name" : "arrows dark\/tag ver - arrow 1.2"
+        },
+        "FD0D7F38-DD71-4380-A126-F6B446FB820C" : {
+          "name" : "Small Cards\/Calendar"
+        },
+        "57B1F91A-8583-4650-9993-46C12FEB982C" : {
+          "name" : "shapes blue\/delay"
+        },
+        "41FD1880-0B31-4A7F-9F00-E2F72D2C4B38" : {
+          "name" : "shapes blue\/decision dotted"
+        },
+        "948627B0-2A19-4D23-909D-574C32B24568" : {
+          "name" : "letters dark\/black solid"
+        },
+        "5A48DF8A-8CB0-4E24-85CB-E361CAB92167" : {
+          "name" : "letters blue\/purple outlined"
+        },
+        "63C73010-3075-440C-88D2-E8BFBAA34F5F" : {
+          "name" : "letters dark\/green solid"
+        },
+        "AFBB4C50-367E-4603-A773-2D71A560A7AE" : {
+          "name" : "Modal Cards\/Page_-_Login_pop_up"
+        },
+        "AEB11BB3-0AE7-4D54-8E12-B336ED159057" : {
+          "name" : "letters gray\/brown solid"
+        },
+        "9FBBC95A-9F29-4F7D-8EB8-577ABA2266B5" : {
+          "name" : "Various Cards\/Video_portfolio"
+        },
+        "31929C50-694D-4847-AE56-91F22EB789EE" : {
+          "name" : "letters gray\/purple outlined"
+        },
+        "9F17DFCB-4AE7-4882-B041-08A362F37863" : {
+          "name" : "arrows blue\/tag hor - arrow 1.2 dotted "
+        },
+        "C9CEE96C-868F-4D80-8C04-7B6C7F6CA9A7" : {
+          "name" : "arrows blue\/arrow 7 dotted"
+        },
+        "D1E194A5-5CF9-48D0-A693-E41ABDB4BEFA" : {
+          "name" : "Small Cards\/Search"
+        },
+        "ACDC5747-91CC-46FA-9D92-825E305F62FA" : {
+          "name" : "Various Cards\/Video_Gallery_5"
+        },
+        "9A446963-362D-4298-8D20-E50ED83A8CDA" : {
+          "name" : "arrows gray\/arrow 1.1 dotted"
+        },
+        "A05B4077-2AB1-48D0-9F82-328756250E33" : {
+          "name" : "shapes dark\/document"
+        },
+        "51EFADE4-975D-41AC-B802-0DC76DA1D271" : {
+          "name" : "arrows dark\/arrow 5"
+        },
+        "C0733965-9A09-45F1-9797-CFAB0A7A6898" : {
+          "name" : "letters gray\/gray semi"
+        },
+        "26F80885-5A5F-4E03-82F7-8C4D00DD1560" : {
+          "name" : "numbers blue\/yellow solid"
+        },
+        "69CE7828-17CC-4A16-A310-DADEAECC20EF" : {
+          "name" : "Various Cards\/Video_Gallery_3"
+        },
+        "26783B4B-F9AE-4FB2-BF16-8EEBE441F1DC" : {
+          "name" : "shapes dark\/process dotted"
+        },
+        "488F502C-350A-4EFC-9BD8-28FD9B0848AA" : {
+          "name" : "Small Cards\/Dashboard"
+        },
+        "F6676530-3076-480B-A16C-7A2EC6517FB6" : {
+          "name" : "arrows gray\/tag hor - line 1.5 dotted "
+        },
+        "3422F367-236D-4674-8C8E-A592E6E9A865" : {
+          "name" : "shapes blue\/preparation dotted"
+        },
+        "A9EC96B9-5157-4A9A-AFAE-DD3F35E2173C" : {
+          "name" : "numbers blue\/purple outlined"
+        },
+        "05127A90-C629-49C9-BCD9-E28210F19FA6" : {
+          "name" : "Layout Cards\/Basic"
+        },
+        "D5211B19-4E1F-4CDB-86B8-73E4D8961F8D" : {
+          "name" : "Small Cards\/Form"
+        },
+        "D2300B2A-392F-4B46-9837-201A0D5DBB12" : {
+          "name" : "labels 2 blue\/success"
+        },
+        "80DC42E6-2C31-43B3-ACD9-CD43EC1823D3" : {
+          "name" : "labels blue\/label 2 square "
+        },
+        "CAFCC0DB-D991-427E-B2D4-EDDC46C8B083" : {
+          "name" : "Home Page Cards\/Home_Page_2"
+        },
+        "2C1CCD7F-AC3E-4C6F-9268-52386DA124C1" : {
+          "name" : "arrows gray\/arrow 3"
+        },
+        "CA07A9FE-73CA-442E-9ED0-AF4DEAC7C268" : {
+          "name" : "arrows blue\/tag ver - arrow 1"
+        },
+        "BBF1D0AB-CE40-4689-82D4-6B0A06826EA4" : {
+          "name" : "labels 2 gray\/plus"
+        },
+        "71A17CAE-71F2-4D3A-83EF-5DB7F400D8A0" : {
+          "name" : "devices dark\/iphone x white"
+        },
+        "903D53EA-9538-4B4A-87A0-F8EB79B1EA65" : {
+          "name" : "labels 2 dark\/no"
+        },
+        "69206F5F-399E-4A64-AA79-B6A30EBCCD91" : {
+          "name" : "devices gray\/iphone white"
+        },
+        "820F209B-371D-40D4-AC93-109E551E3F93" : {
+          "name" : "labels 2 blue\/label"
+        },
+        "F4B8203B-AA62-4342-8B2E-F15D964668E3" : {
+          "name" : "labels 2 dark\/error"
+        },
+        "34E5DA55-03AE-4EAB-B903-784A0E2E805E" : {
+          "name" : "arrows gray\/arrow 7"
+        },
+        "4CC3517A-00A5-4157-97A8-E882C03B1A53" : {
+          "name" : "Layout Cards\/_3_Columns"
+        },
+        "F7B88A64-F3C8-49EE-A1C0-B8AE5D0767D6" : {
+          "name" : "letters blue\/yellow semi"
+        },
+        "200722DB-4239-4006-9F00-B441F9A549FC" : {
+          "name" : "arrows dark\/arrow 1.1 dotted"
+        },
+        "8AA377E3-171F-4EDF-969D-F6A8CD7501BF" : {
+          "name" : "shapes blue\/on-page ref"
+        },
+        "F0DAFC92-58EB-45FD-827B-43BC3D56A3A1" : {
+          "name" : "arrows gray\/arrow 4.1"
+        },
+        "AFDDAE75-D077-461D-8008-1E917399FB7A" : {
+          "name" : "Home Page Cards\/Home_Page_6"
+        },
+        "53E26921-8A7E-4831-8130-D132BD10CF66" : {
+          "name" : "shapes blue\/data dotted"
+        },
+        "BA666A31-8E18-477B-8608-5EF76E5E0D7B" : {
+          "name" : "letters blue\/green outlined"
+        },
+        "F3FD9F88-1601-41B6-AD89-4DFBC81F50F8" : {
+          "name" : "arrows gray\/tag ver - arrow 1.1"
+        },
+        "A20EBBE6-9852-4EAA-AFA5-BC88D5BF84BA" : {
+          "name" : "arrows dark\/arrow 2 dotted"
+        },
+        "63133B94-DDCD-47EE-87C3-F87B782113C7" : {
+          "name" : "Layout Cards\/Landing_Page_2"
+        },
+        "AE574865-CD28-4C85-B76B-EF6F48C670A3" : {
+          "name" : "Home Page Cards\/Home_Page_8"
+        },
+        "85C36C5E-430D-4D1D-96F8-5A2864E4535C" : {
+          "name" : "letters gray\/orange solid"
+        },
+        "228CDF2F-03FD-4C51-9F71-8CFFD6869103" : {
+          "name" : "arrows dark\/tag ver - arrow 1.2 dotted"
+        },
+        "CFB2FEAE-55CA-4EAC-B76E-C05A345BE1F9" : {
+          "name" : "devices gray\/watch white"
+        },
+        "FF2D5ADF-5789-47FF-90DB-E746E942A79A" : {
+          "name" : "notes gray\/note DOWN"
+        },
+        "DBE2CC29-31B7-426E-8E95-AE5A3E9D06D9" : {
+          "name" : "arrows gray\/arrow 5.1"
+        },
+        "29F4BAF5-95D2-4321-A13C-670EA0CD12BA" : {
+          "name" : "Various Cards\/Team-2"
+        },
+        "B7D98C72-F7BC-427B-81D0-38644B2558F9" : {
+          "name" : "Various Cards\/Countdown_"
+        },
+        "901E27D5-2956-4ED7-AC43-57320E1A9C07" : {
+          "name" : "shapes gray\/delay dotted"
+        },
+        "5E1EECF5-CEC9-4456-A6DC-A61D4EE3CFC3" : {
+          "name" : "numbers blue\/brown solid"
+        },
+        "8D9AD84D-6747-4A09-B887-A8025264B8A9" : {
+          "name" : "devices blue\/samsung"
+        }
+      }
+    },
+    "5F3E72BC-7F54-4D8A-B599-59287803CA92" : {
+      "name" : "Kit",
+      "artboards" : {
+
+      }
+    }
+  }
+}
